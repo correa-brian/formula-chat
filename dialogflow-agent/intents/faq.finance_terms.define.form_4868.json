@@ -1,0 +1,44 @@
+{
+  "id": "340d3674-ba3e-42b0-aa14-1514cbf2e999",
+  "name": "faq.finance_terms.define.form_4868",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e628a2e5-b595-4f80-b700-99817b928b37",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Form 4868 is how you apply for an automatic 6 month extension for filing your taxes if you\u0027re an individual, Single-Member LLC or Schedulce C Sole Proprietor. Anyone can qualify for it. You need to submit the Form by Tax Day (April 15th), and this will give you until October 15th to file your tax return. You\u0027ll still need to pay any taxes you owe on April 15th, and as long as you pay 90% of what you owe when you file your return in October, you won\u0027t have to pay any penalties for underpayment."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

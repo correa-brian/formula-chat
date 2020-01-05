@@ -1,0 +1,62 @@
+[
+  {
+    "id": "86e668c1-a62c-473d-b895-da06f4724308",
+    "data": [
+      {
+        "text": "Untaxable income",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34111b79-36bf-41e8-9ad4-292f38dada4b",
+    "data": [
+      {
+        "text": "Untaxed Income",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23b70d58-dbc9-4399-8b41-63137d9f6b5a",
+    "data": [
+      {
+        "text": "Non Taxable Income",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7c0164e-804f-4773-a13b-359c5f0d403a",
+    "data": [
+      {
+        "text": "NonTaxable Income",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7287aacd-c279-4002-80c4-3f016b92aa91",
+    "data": [
+      {
+        "text": "Non-Taxable Income",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1d61d610-8de8-4ee5-abf8-99831474ef1a",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "head of household",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ab558f4-befc-4b2b-b752-10b81e87247f",
+    "data": [
+      {
+        "text": "What\u0027s head of household",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88e4889b-9b22-41ce-b077-34e421827b41",
+    "data": [
+      {
+        "text": "Head of Household",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

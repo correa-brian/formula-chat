@@ -1,0 +1,31 @@
+{
+  "id": "eb84b085-a3c1-4e84-a0d7-9ceae5b69af6",
+  "name": "faq.finance_terms.define.self_employment_taxes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Self-Employment taxes are your contributions to Social Security and Medicare if you work for yourself. This rate is currently 15.3% for anyone who earned over $400 doing for self-employed work. You\u0027ll likely pay this tax on a quarterly basis as an estimate to the IRS."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

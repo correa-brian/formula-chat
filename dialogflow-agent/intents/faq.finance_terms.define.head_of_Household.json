@@ -1,0 +1,31 @@
+{
+  "id": "1e99d77b-b1ee-4494-a80b-d567608c997f",
+  "name": "faq.finance_terms.define.head_of_household",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "This is a tax filing status that can lead to lower taxes and a greater potential refund. In order to qualify for this status, you must be unmarried, pay more than half of the household expenses and have a qualifying child or dependent."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
