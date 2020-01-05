@@ -1,0 +1,44 @@
+{
+  "id": "07b076e6-c7ed-48a5-b53d-2b83842bdcd3",
+  "name": "Double_Taxation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d11e4ce8-48ca-44bd-83fa-c15a30f0afd8",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Double Taxation is when income taxes are paid twice on the same source of income. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

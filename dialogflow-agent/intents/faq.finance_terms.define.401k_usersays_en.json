@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2cd84fb5-cf31-4fee-8caf-60c49c5bdfe7",
+    "data": [
+      {
+        "text": "401",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      },
+      {
+        "text": "k",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86ed6153-2ffd-4775-9b2d-7ba3935d31ed",
+    "data": [
+      {
+        "text": "401(k)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

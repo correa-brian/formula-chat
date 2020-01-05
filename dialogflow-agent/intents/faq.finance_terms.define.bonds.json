@@ -1,0 +1,37 @@
+{
+  "id": "e0d5c585-0ed9-44f5-a307-710fe8ab9207",
+  "name": "faq.finance_terms.define.bonds",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Bonds-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Bonds are a type of investment that pays you interest at a fixed rate (a.k.a. Fixed Income). They are issued by corporations and governments. Bonds prices generally go up when stock prices are generally declining. You can buy and sell bonds just like you would a stocks by purchasing a Bond Fund."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

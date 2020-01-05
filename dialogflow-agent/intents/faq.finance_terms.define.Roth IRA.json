@@ -1,0 +1,56 @@
+{
+  "id": "ef07b005-759f-4b13-8d0f-84537e15a940",
+  "name": "Roth IRA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a4dd781a-ed32-415b-9974-dd6e525bd4b1",
+          "required": false,
+          "dataType": "@finance-term",
+          "name": "finance-term",
+          "value": "$finance-term",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e8047113-50d4-414e-818e-369afa5d2558",
+          "required": false,
+          "dataType": "@finance-term",
+          "name": "finance-term1",
+          "value": "$finance-term1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Roth IRAs let you grow your savings tax-free. Your contributions are not tax-deductible from you annual income, but they are tax-free when you make withdrawals. You can begin making withdrawals after you\u0027ve had the account for 5 years and you\u0027re at least 59 1/2 years old."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

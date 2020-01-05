@@ -1,0 +1,31 @@
+{
+  "id": "fc03c62d-040f-4949-92a7-e90035fbfa89",
+  "name": "faq.finance_terms.define.cash_back_rewards",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "In the majority of cases, cash back rewards from credit card companies are not considered income or taxed. The IRS considers these rewards to be discounts, since they\u0027re provided in return for spending money."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

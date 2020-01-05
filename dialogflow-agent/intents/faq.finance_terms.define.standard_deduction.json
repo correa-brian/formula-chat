@@ -1,0 +1,31 @@
+{
+  "id": "0c4412b0-2ec9-4179-a23b-3fdcf507c982",
+  "name": "standard_deduction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Standard Deduction is a no-questions-asked deduction you can take from your total taxable income. You also have the option to itemize your deduction if you have significant medical expenses or charitable contributions, but make sure to keep those receipts in case the IRS asks to confirm these expenses via an Audit. For 2019, the Standard Deduction for a single filer is $12,200 and $18,350 if you\u0027re a Head of Household."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a4fede0c-c11c-44cb-814a-ad3a2f869651",
+    "data": [
+      {
+        "text": "A.G.I.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2165415d-bf63-47a2-a318-625303b21d6a",
+    "data": [
+      {
+        "text": "Adjusted Gross Income",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1318eb15-e222-4bdd-a1ca-730a365a3837",
+    "data": [
+      {
+        "text": "AGI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

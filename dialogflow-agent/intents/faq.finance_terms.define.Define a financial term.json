@@ -1,0 +1,63 @@
+{
+  "id": "ffcbec00-01db-4d49-962b-2e04afa06d49",
+  "name": "Define a financial term",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "financial-term.lookup",
+      "affectedContexts": [
+        {
+          "name": "Defineafinancialterm-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f136ec7e-5e18-4ff7-8205-87957925f9d4",
+          "required": true,
+          "dataType": "@finance-term",
+          "name": "finance-term",
+          "value": "$finance-term",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which finance term are you interest in learning about?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Here you go, $finance-term: This is a definition."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

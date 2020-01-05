@@ -1,0 +1,9 @@
+{
+  "id": "56828c01-ef80-46c0-90c4-9b525ee6395e",
+  "name": "estimate_filing_status",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a89032be-f0f7-45d1-b916-9907246e6d22",
+  "name": "Taxable_Income",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Taxable income is income you have to pay taxes on, like wages, salary, bonuses, commissions and tips. Other examples of taxable income include: capital gains, unemployment benefits, fees for jury duty, security deposits you receive from a tenant, severance pay, interest and dividends, gambling winnings and awards/prizes/contest winnings."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

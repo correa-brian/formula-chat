@@ -1,0 +1,31 @@
+{
+  "id": "e67dee26-ff50-4b38-9c2e-393a24e3a54d",
+  "name": "Tax_Brackets",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Tax brackets show you the tax rate you will pay on each portion of your income. For example, if you are single, the lowest tax rate of 10% is applied to the first $9,700 of your income in 2019. The next chunk of your income is then taxed at 12%, and so on, up to the top of your taxable income. The progressive tax system ensures that all taxpayers pay the same rates on the same levels of taxable income. The overall effect is that people with higher incomes pay higher taxes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

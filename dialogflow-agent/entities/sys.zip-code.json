@@ -1,0 +1,9 @@
+{
+  "id": "6452212f-c766-4a6d-942e-b25edabe10d2",
+  "name": "sys.zip-code",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

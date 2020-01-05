@@ -1,0 +1,31 @@
+{
+  "id": "4f00d01f-ba18-46ed-9c3a-3c4ae338d3f8",
+  "name": "faq.finance_terms.define.agi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "AGI stands for Adjusted Gross Income. Your AGI is all the $ you make in a year, minus deductions like contributions to a Simple IRA, SEP IRA or 401(k), Health Saving Account (HSA) Contributions, 1/2 of self employment taxes paid, and alimony paid. Your AGI will determine your eligibility for most tax credits."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

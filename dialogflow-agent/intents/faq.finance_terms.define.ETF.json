@@ -1,0 +1,37 @@
+{
+  "id": "72de420f-d526-44af-8c5c-48d1e5118729",
+  "name": "ETF",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ETF-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "ETF stands for Exchange-Traded Fund. An ETF invests in a basket of stocks or other assets like bonds and shares in the ETF can be bought and sold like a regular stock. ETFs can track an index, like the S\u0026P 500, and can also invest in different industry sectors like Technology. ETFs have fees that get deducted from its investment returns."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bcb7d74c-d053-456d-b8c6-e5f0dab80342",
+    "data": [
+      {
+        "text": "rewards taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5bf76649-4031-4217-a673-7d90d2365a87",
+    "data": [
+      {
+        "text": "taxes on credit card rewards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c15067fc-6dbb-44a6-b1c0-827819261c6a",
+    "data": [
+      {
+        "text": "taxes on cash back rewards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e22185e-38b5-4b16-a0b8-99d51374835d",
+    "data": [
+      {
+        "text": "cash back rewards taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0baf28ad-27cb-4b3e-902d-d57a09c9ba91",
+    "data": [
+      {
+        "text": "cash back reward",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a805dd5-dd5f-4778-b4eb-547be695e11d",
+    "data": [
+      {
+        "text": "Cash Back Rewards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "3d0ab81e-2582-4850-9c49-0ab42be596b1",
+  "name": "Tax_Refund",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "This is the amount of money the government gives back to you if you paid more in taxes than you owe. While getting money back is good, keep in mind that getting a refund also means you\u0027ve given the government an interest-free loan on the money you overpaid. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

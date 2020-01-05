@@ -1,0 +1,44 @@
+{
+  "id": "b5a59862-788c-4632-ba2e-8dda1a841780",
+  "name": "Savers_Credit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b682f100-cf02-45dd-9d3c-9d90bb72446a",
+          "required": false,
+          "dataType": "@finance-term",
+          "name": "finance-term",
+          "value": "$finance-term",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Savers Credit is available to people with lower incomes who contribute to qualified retirement plans, like a 401(k), 403(b), IRA, Roth IRA or 457 plan. In order to qualify, your AGI must be below $32k if you are a single filer, $48k if you are a head of household and $64k if you are married filing jointly. The credit amount can range from $1k to $2k depending on income and filing status and you use Form 8880 to claim the credit on your tax return."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

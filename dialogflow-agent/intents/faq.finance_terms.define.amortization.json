@@ -1,0 +1,31 @@
+{
+  "id": "937c5ba8-53f6-4468-a8e2-8d20bc997d2b",
+  "name": "faq.finance_terms.define.amortization",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "When a business buys an intangible asset, like a license or a patent, it must spread out the cost across the useful life of the asset - this process is called amortization. Say you buy a license for $10k, and the license expires in 10 years, each year the license loses some of its value. Instead of taking a $10k deduction the year you buy the license, you must take a $1k deduction each year of the useful life of the license (10 years). There are more complicated ways of amortizing, but this simpler method is known as the Straight-Line method. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

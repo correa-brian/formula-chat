@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f536ce53-16ed-436e-81d8-28cc3155fc7f",
+    "data": [
+      {
+        "text": "Depreciating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98097a8d-1dfb-45b4-b001-47ec3c286ddb",
+    "data": [
+      {
+        "text": "Depreciate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6df51c6-726e-4d45-8355-f3525fc04088",
+    "data": [
+      {
+        "text": "Depreciation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

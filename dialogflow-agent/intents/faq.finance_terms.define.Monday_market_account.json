@@ -1,0 +1,44 @@
+{
+  "id": "2cdc9ff6-78d5-44d3-9d7c-1a49b9037d75",
+  "name": "Monday_market_account",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5ba3849e-636b-4f44-bfd2-499aef39c973",
+          "required": false,
+          "dataType": "@finance-term",
+          "name": "finance-term",
+          "value": "$finance-term",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Money Market Accounts (MMAs) help you generate interest in a federally insured account that tends to have higher interest rates than checking or savings accounts at most banks. They can be great for saving for an emergency, holiday, or your taxes. This type of investment might work for you if you don\u0027t plan on making frequent withdrawals and are confident you\u0027ll maintain a minimum balance in the account."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

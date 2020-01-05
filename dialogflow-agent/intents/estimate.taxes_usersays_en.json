@@ -1,0 +1,151 @@
+[
+  {
+    "id": "2c5813dd-12c3-4553-8051-d209b51ac3b7",
+    "data": [
+      {
+        "text": "how much taxes do I owe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8673bf97-db4c-4b1f-917c-879f03b14b87",
+    "data": [
+      {
+        "text": "show me my taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "817d3957-040c-4ce7-b5b4-2c15776b903f",
+    "data": [
+      {
+        "text": "what\u0027s my tax burden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6edf81a3-fbc9-4e7b-9024-d387f671045c",
+    "data": [
+      {
+        "text": "tax burden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53fbe403-5162-4b78-a441-baa1991646ba",
+    "data": [
+      {
+        "text": "calculate tax ",
+        "userDefined": false
+      },
+      {
+        "text": "bill",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f30a45b-b177-4d76-899c-10053a8710de",
+    "data": [
+      {
+        "text": "calculate taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "987ee121-1d2c-4466-848a-9eace319a6fa",
+    "data": [
+      {
+        "text": "help me with my taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab0b1df1-3637-406f-987d-252c4e2b64c7",
+    "data": [
+      {
+        "text": "can you do my taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66974b53-4448-4b9c-994a-2cc1173a6f6e",
+    "data": [
+      {
+        "text": "tax estimates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cf537b9-df92-467f-a4de-913abfc9b175",
+    "data": [
+      {
+        "text": "what are my taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f48e6b0d-5349-49b5-8d0a-3407fa068a97",
+    "data": [
+      {
+        "text": "do my taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f17f07e-9bb3-453f-b847-51be3b4274d8",
+    "data": [
+      {
+        "text": "estimate taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "6ab2ed8e-77dc-47da-9038-8b0a13c79c40",
+  "name": "help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Hola! Here are some things I can do:
+            \n\n🗄 Say any financial term and I'll define it! Examples: \"401k\", \"head of household\"
+            \n\n📘 Say \"estimate my taxes\" and I'll help you with that.
+            \n\n📘 Say \"feedback\" to let my overlords know how to improve.
+            \n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

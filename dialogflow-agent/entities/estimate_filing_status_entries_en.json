@@ -1,0 +1,49 @@
+[
+  {
+    "value": "Single",
+    "synonyms": [
+      "Single",
+      "not married",
+      "independent"
+    ]
+  },
+  {
+    "value": "Married - Filing Jointly",
+    "synonyms": [
+      "Joint",
+      "married",
+      "couple",
+      "filing together",
+      "filing jointly",
+      "with my husband",
+      "with my partner",
+      "with my wife",
+      "as a couple"
+    ]
+  },
+  {
+    "value": "Married - Filing Separately",
+    "synonyms": [
+      "Married filing separate",
+      "married filing 2",
+      "mfs",
+      "separately",
+      "filing separate",
+      "separated",
+      "not together"
+    ]
+  },
+  {
+    "value": "Head Of Household",
+    "synonyms": [
+      "Head of Household",
+      "head",
+      "parent with dependents",
+      "with dependents",
+      "single mom",
+      "HoH",
+      "head of house",
+      "head house"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "8fb27c40-b6f6-42cc-8cde-19a04557b53e",
+  "name": "faq.finance_terms.define.capital_gains",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A capital gain is the profit you make from selling an asset, like a stock, bond or real estate. If you\u0027ve held the asset for \u003c 1 year before selling it, this is called a short-term capital gain. If you\u0027ve held the asset for \u003e 1 year before selling it, this is called a long-term capital gain. Short and Long term capital gains are taxed differently."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

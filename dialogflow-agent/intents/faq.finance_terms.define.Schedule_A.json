@@ -1,0 +1,31 @@
+{
+  "id": "6d89fd94-e0a2-4761-9192-16d402c20f48",
+  "name": "Schedule_A",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Schedule A is a form you file with your 1040 if you are itemizing deductions like Medical and Dental expenses, State and Local taxes, charitable donations, mortgage or investment interest, and other miscellaneous items. Remember, you\u0027ll only want to itemize deductions if the total amount of itemized deductions is greater than your Standard Deduction."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

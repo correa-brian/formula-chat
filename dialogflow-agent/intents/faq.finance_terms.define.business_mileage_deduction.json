@@ -1,0 +1,31 @@
+{
+  "id": "092a546d-8dff-4e1f-bf38-a8b3dc8bbccf",
+  "name": "faq.finance_terms.define.business_mileage_deduction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Business Mileage Deduction lets you deduct a fixed amount per mile you drive for business activities. For 2019, you can take $0.58 per mile driven from your taxable income (note: this excludes taxi cabs and vehicles used as equipment, like a dump truck). When you\u0027re not commuting you can track your miles and earn a deduction for driving to meetings with clients and attending a meeting away from your normal place of business."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

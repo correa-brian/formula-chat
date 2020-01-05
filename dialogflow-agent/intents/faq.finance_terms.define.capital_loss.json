@@ -1,0 +1,31 @@
+{
+  "id": "810c7ba0-e9d2-4479-89be-6fa1aed982a6",
+  "name": "faq.finance_terms.define.capital_loss",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A capital loss is the loss you have when you buy an asset, like a stock, bond or real estate and sell it for less than the price you paid. Capital losses can be used to reduce your taxes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

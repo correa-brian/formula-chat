@@ -1,0 +1,31 @@
+{
+  "id": "700b6da6-3d64-4231-95fe-03ead458bca3",
+  "name": "faq.finance_terms.define.1040",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A 1040 is a form is a form US citizens use for personal federal income tax returns. Filling out a 1040 will tell you how much you owe in taxes for a given year, or how much you\u0027ll be getting refunded by the government. 1040s are usually due on April 15th (unless this date is a Saturday, Sunday or legal holiday, in which case they\u0027re due on the next business day after April 15th)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

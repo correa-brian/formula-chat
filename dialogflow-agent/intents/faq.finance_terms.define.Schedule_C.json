@@ -1,0 +1,31 @@
+{
+  "id": "826eb7f6-39bc-4271-b35a-f075233c3d15",
+  "name": "Schedule_C",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Schedule C is usually filled out by self-employed people as a part of their individual federal income tax return (Form 1040). It is used to report how much you made or lost running your business. Schedule C is where important tax deduction like the Home Office Deduction, the Business Mileage Expense Deduction and the Cost of Good Sold Deduction go."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

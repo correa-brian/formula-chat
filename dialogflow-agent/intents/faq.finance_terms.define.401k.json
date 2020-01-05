@@ -1,0 +1,44 @@
+{
+  "id": "9baf5ac9-d241-4b27-a65c-f42163c98c4c",
+  "name": "faq.finance_terms.define.401k",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "afef441f-38d4-4a06-a015-6355466777d4",
+          "required": false,
+          "dataType": "@finance-term",
+          "name": "finance-term",
+          "value": "$finance-term",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A 401(k) is a retirement savings plan sponsored by an employer. It lets contribute a piece of their paycheck before taxes are taken out. Some employers match their employee\u0027s 401(k) contributions. Taxes aren\u0027t paid on contributions until the money is withdrawn."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

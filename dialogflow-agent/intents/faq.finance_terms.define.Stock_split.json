@@ -1,0 +1,31 @@
+{
+  "id": "54581590-69a5-4113-bfa4-60456b1848db",
+  "name": "Stock_split",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A stock split increases the number of shares in a company. Stock splits cause the market price of individual shares to go down without causing a change in the company\u0027s total market capitaliation. If you own 1 share of company stock at a market price of $40, and the company splits the stock in two, you would then have 2 shares of stock at a market price of $20."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

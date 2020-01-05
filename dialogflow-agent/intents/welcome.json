@@ -1,0 +1,36 @@
+{
+  "id": "1e9eafd6-2daa-4e24-a6cb-f13c5936a4a1",
+  "name": "welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Hi! I\u0027m accountbot 👾\n\nHere are some things I can help you with ✏️\n\n- Estimate your taxes for 2019 (federal or state) 💵\n\n- Define common financial terms (tax deductions, IRAs, and bonds) 📚\n\nWhere should we start? 🏋️‍♀️\n\nFor a full list of actions, type \"help\"  🧠"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

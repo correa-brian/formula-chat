@@ -1,0 +1,31 @@
+{
+  "id": "4e7c0a72-be5d-4cec-918b-4f6595a85d85",
+  "name": "faq.finance_terms.define.amt",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "AMT stands for Alternative Minimum Tax. It only affects .1% of taxpayers, mostly in the highest income ranges. It was designed to ensure that high-income individuals do not use the regular tax system to pay little or no tax. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

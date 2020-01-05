@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0a55824d-409e-40a7-bc45-8e59f683c77a",
+    "data": [
+      {
+        "text": "$100,000",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

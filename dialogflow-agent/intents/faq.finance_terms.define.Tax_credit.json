@@ -1,0 +1,44 @@
+{
+  "id": "a52ce21b-e5c3-4ce4-9fd7-80afa22af25c",
+  "name": "Tax_credit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "464edc78-7649-4b88-ae0b-6aac15eb39a5",
+          "required": false,
+          "dataType": "@finance-term",
+          "name": "finance-term",
+          "value": "$finance-term",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Tax credits reduce the amount of money you owe in taxes. There are a few different types of credits (refundable, non-refundable, and partially refundable) that allow you to subtract the total amount of your credit from the taxes you owe. It\u0027s like applying a discount coupon to your taxes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

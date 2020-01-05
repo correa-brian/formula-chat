@@ -1,0 +1,31 @@
+{
+  "id": "5ef6c1ef-e7c1-4097-b7fc-a5ea8827b40c",
+  "name": "faq.finance_terms.define.capital_gains_taxes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "These are taxes you pay on profits from selling an asset, like a stock, bond or real estate. The tax rate you pay on capital gains is determined by whether you\u0027ve held the asset for \u003e a year, and your income level."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

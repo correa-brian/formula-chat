@@ -1,0 +1,82 @@
+[
+  {
+    "id": "31dc8a18-8006-4d3e-b1e2-132814529280",
+    "data": [
+      {
+        "text": "Roth ",
+        "userDefined": false
+      },
+      {
+        "text": "Individual Retirement Account",
+        "alias": "finance-term1",
+        "meta": "@finance-term",
+        "userDefined": false
+      },
+      {
+        "text": " (",
+        "userDefined": false
+      },
+      {
+        "text": "IRA",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      },
+      {
+        "text": ")",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38a8ea22-51e2-4b05-a984-abb679453838",
+    "data": [
+      {
+        "text": "What\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "Roth IRA",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "694350d3-56fe-481f-bcb6-b9ba666085c0",
+    "data": [
+      {
+        "text": "What is a Roth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f60f240e-fbda-46b3-b155-b210ab9327e9",
+    "data": [
+      {
+        "text": "Roth IRA",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

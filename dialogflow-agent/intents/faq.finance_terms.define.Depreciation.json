@@ -1,0 +1,31 @@
+{
+  "id": "7258e0e9-4d8b-40c0-a1ce-7fd357678884",
+  "name": "Depreciation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Depreciation lets business owners spread out the tax deduction they would get for the cost of property or other assets, like machinery, computers, and furniture across multiple years. Different assets have different depreciation timelines (for instance, a computer get depreciated over 5 years) and depreciation deductions usually go on IRS Form 4562"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

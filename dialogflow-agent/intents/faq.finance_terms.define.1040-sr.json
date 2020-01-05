@@ -1,0 +1,31 @@
+{
+  "id": "289a396f-086a-4973-b8d7-1ebe0aab3f8b",
+  "name": "faq.finance_terms.define.1040-sr",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The 1040-SR is like a regular Form 1040, but it is simpler and only to be used by senior citizens who are 65 or older at any time during the tax year (even December 31st). In order to qualify for using the 1040-SR, in addition to being 65 or older, you must also claim the Standard Deduction."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

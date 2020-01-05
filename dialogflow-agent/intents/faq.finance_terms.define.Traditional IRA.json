@@ -1,0 +1,44 @@
+{
+  "id": "cd2d49e0-8498-4549-b97b-c33c58448edd",
+  "name": "Traditional IRA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7d925e5a-7ba6-43df-97c7-1c9fafe3141d",
+          "required": false,
+          "dataType": "@finance-term",
+          "name": "finance-term",
+          "value": "$finance-term",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A Traditional Individual Retirement Account (IRA) is a tax-deductible retirement account that grows tax-free until you start making withdrawals. This means the amount you pay into it annually can be deducted from your annual income, but eventually you\u0027ll pay taxes on it when you hit retirement. Your annual contribution limit is $6,000 if you\u0027re under 50 and 7,000 if you\u0027re over."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

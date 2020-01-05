@@ -1,0 +1,62 @@
+[
+  {
+    "id": "e06d6fb9-91d0-47e1-9867-07e25a11d48f",
+    "data": [
+      {
+        "text": "can you tell me about a financial product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38738335-70ad-49cb-ba81-dad211edf784",
+    "data": [
+      {
+        "text": "define financial term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6702ab48-b5b6-4a74-9029-827a1d63718c",
+    "data": [
+      {
+        "text": "what are some financial products",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "facdcffb-aeaf-49b5-bf9a-260c6c25322f",
+    "data": [
+      {
+        "text": "financial product glossary",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31c12947-49ac-4240-b463-cb75ef02fd1c",
+    "data": [
+      {
+        "text": "I want to learn about a financial product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

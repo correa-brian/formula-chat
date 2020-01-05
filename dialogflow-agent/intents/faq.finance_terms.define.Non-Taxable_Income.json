@@ -1,0 +1,31 @@
+{
+  "id": "51b9d39c-40d6-41cf-9765-a956c155d7e8",
+  "name": "Non-Taxable_Income",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Non-Taxable Income is income that won\u0027t be taxed. Examples of Non-Taxable Income include: inheritances, gifts and bequests, cash rebates on items you purchase, limony payments (for divorces finalized after 2018), child support payments, healthcare benefits, welfare payments, workers compensation benefits, interest on municipal bonds issued in your state, money refunded from qualifying adoptions, money received from a life insurance policy when someone dies, and money from a qualified scholarship (if you use scholarship money for room, board or personal expenses, that portion is taxable)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

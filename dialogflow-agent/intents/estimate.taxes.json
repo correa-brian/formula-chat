@@ -1,0 +1,37 @@
+{
+  "id": "2914ea2e-bfd8-4a25-8c21-cde48c30bb5e",
+  "name": "estimate.taxes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "estimatetaxes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Great! Let\u0027s start with your filing status.\n\nSingle 💁🏽 \nMarried 💍\nMarried Filing Separate (MFS) 🖖🏾 \nHead of Household (HoH) 🥖"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
