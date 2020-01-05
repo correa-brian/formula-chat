@@ -1,0 +1,31 @@
+{
+  "id": "f4d36a6a-7c11-43a9-9802-1b4beb521532",
+  "name": "faq.finance_terms.define.magi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "MAGI stands for Modified Adjusted Gross Income. It doesn\u0027t appear on your tax return, but this number lets you know if you\u0027re eligible to make tax-deductible contributions to an IRA, take tax deductions for school tuition and fees, receive income-based Medicaid, or a subsidized health plan through the Affordable Care Act."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

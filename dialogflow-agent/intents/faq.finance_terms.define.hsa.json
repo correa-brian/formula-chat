@@ -1,0 +1,31 @@
+{
+  "id": "08406932-ba2a-441d-a76a-d182aa490d92",
+  "name": "faq.finance_terms.define.hsa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "People with qualifying high-deductible health insurance ($1,350 for self-only coverage or $2,700 for family coverage) can setup and contribute to a Health Savings Account (HSA). You contribute to the HSA and then can use this money to pay medical expenses insurance does not cover because they fall under the deductible. These contributions are tax deductible. In 2019, you can contribute up to $3.5k if you have single coverage, or $7k if you have family coverage per year."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

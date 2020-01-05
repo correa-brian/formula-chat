@@ -1,0 +1,31 @@
+{
+  "id": "9af0657d-c8b6-45b8-b0d3-c59cf3cb0576",
+  "name": "faq.finance_terms.define.itemized_deductions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "An itemized deduction is an amount of money you spend that can be subtracted from your Adjusted Gross Income (AGI) to reduce your taxes. Itemized deductions include Mortgage Interest, Charitable Contributions, Student Loan Interest, Gambling Losses, and Medical and Dental Expenses (above 10% of AGI). They also include State and Local income taxes and personal property or sales taxes up to $10k. Unless your total itemized deductions are greater than the standard deduction for your filing status ($12,200 for Single Filers, $18,350 for Head of Household filers and $24,400 for married persons filing jointly), you will save more money by taking the standard deduction and not itemizing."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

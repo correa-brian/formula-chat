@@ -1,0 +1,44 @@
+{
+  "id": "78fdd2e0-31bc-4d16-a67c-cdba900c1779",
+  "name": "faq.finance_terms.define.form_8880",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "acaea16f-97e4-4ab9-b2d5-a2263ef4235c",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Form 8880 helps you calculate and claim the savers credit, which is available to people with lower incomes who contribute to qualified retirement plans, like a 401(k), 403(b), IRA, Roth IRA or 457 plan. In order to qualify, your AGI must be below $32k if you are a single filer, $48k if you are a head of household and $64k if you are married filing jointly. The credit amount can range from $1k to $2k depending on income and filing status."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

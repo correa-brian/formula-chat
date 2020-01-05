@@ -1,0 +1,94 @@
+[
+  {
+    "id": "3e465aab-be8d-4c36-9d81-2e3adc14a900",
+    "data": [
+      {
+        "text": "invest in ",
+        "userDefined": false
+      },
+      {
+        "text": "money market fund",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3db6489c-a637-4b72-930f-6995af466150",
+    "data": [
+      {
+        "text": "Can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "money market fund",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56210295-a340-422b-9b71-8a3e09acc66f",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "money market funds",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2148a692-d29d-45bc-8dc9-72c9a8e88789",
+    "data": [
+      {
+        "text": "MMF",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "687f8e75-d0fd-459b-8e2b-2e27c17b525e",
+    "data": [
+      {
+        "text": "What\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "money market fund",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

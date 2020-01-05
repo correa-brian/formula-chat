@@ -1,0 +1,44 @@
+{
+  "id": "d8eb2af5-dfe6-4fb3-bd7c-643b094970fa",
+  "name": "faq.finance_terms.define.tax_deduction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "22431da0-2b5c-4393-b50a-ae02cb3d9d16",
+          "required": false,
+          "dataType": "@finance-term",
+          "name": "finance-term",
+          "value": "$finance-term",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A Tax Deduction lets you exclude income from being taxed. There are two main types of deductions: Standard and itemized. The Standard Deduction is a fixed amount that doesn\u0027t require receipts or additional forms. The Itemized Deduction needs more work, but could make sense for you if you\u0027ve paid property taxes, contributed to charity, or if 7.5% of your income went to medical bills."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

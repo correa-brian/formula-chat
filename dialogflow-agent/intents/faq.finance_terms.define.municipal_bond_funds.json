@@ -1,0 +1,37 @@
+{
+  "id": "85e061be-daaf-4867-916a-fdf652eca2b1",
+  "name": "faq.finance_terms.define.municipal_bond_funds",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Municipal_Bond_Funds-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Municipal Bond Funds hold an array of different Municipal Bonds for a given state. Shares in these funds can be bought and sold like a stock and usually pay interest more frequently than a regular Municipal Bond."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "65845c6d-b644-4242-b418-be6a6359b9a5",
+  "name": "faq.finance_terms.define.Wealth_Tax",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A wealth tax is a tax on the total value of your personal assets. For instance, if you had $20 million bucks, and there was a yearly wealth tax of 10%, you would owe $2 million bucks. The US does not have a wealth tax, but it has been proposed by some politicians in recent years as a way to reduce income inequality."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

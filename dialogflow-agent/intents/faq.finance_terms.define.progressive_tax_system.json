@@ -1,0 +1,31 @@
+{
+  "id": "f854fbd1-e646-48f0-9d03-cf466b0d042f",
+  "name": "faq.finance_terms.define.progressive_tax_system",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The US uses a progressive tax system - progressive refers to the way your Maximum Tax Rate increases as your income increases. You pay taxes at your Maximum Tax Rate on income over a certain threshold. The average rate you pay taxes at is called your Effective Tax Rate, and this is lower than the Maximum Tax Rate"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

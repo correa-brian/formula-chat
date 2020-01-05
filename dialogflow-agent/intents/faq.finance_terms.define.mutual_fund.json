@@ -1,0 +1,31 @@
+{
+  "id": "c79d92cc-dca9-456c-a506-48a2f23f1c1f",
+  "name": "faq.finance_terms.define.mutual_fund",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A mutual fund invests in a basket of stocks other assets like bonds. Shares in a mutual fund are bought and sold at the end of each trading day, but not during the trading day. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

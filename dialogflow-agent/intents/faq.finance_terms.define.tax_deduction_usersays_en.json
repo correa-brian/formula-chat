@@ -1,0 +1,86 @@
+[
+  {
+    "id": "5b11697f-96b0-499b-b066-6727a97cdaf8",
+    "data": [
+      {
+        "text": "Define ",
+        "userDefined": false
+      },
+      {
+        "text": "tax deduction",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d790d7d2-5660-47d7-9b57-d24b6cf4e60f",
+    "data": [
+      {
+        "text": "Get a ",
+        "userDefined": false
+      },
+      {
+        "text": "tax deduction",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20f9d8ae-a32f-4181-b90a-6c555da07da9",
+    "data": [
+      {
+        "text": "deductions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e65978c-56e9-4585-b41f-7cdc04941bc4",
+    "data": [
+      {
+        "text": "Tax deduction",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48673ba7-3e50-4c1c-b6c3-6253760ba97d",
+    "data": [
+      {
+        "text": "What are ",
+        "userDefined": false
+      },
+      {
+        "text": "tax deductions",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e231950c-723e-4d8d-9612-c73916377add",
+    "data": [
+      {
+        "text": "mutual funds",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c0919c3-0388-44b8-afbc-3548a2d2ab84",
+    "data": [
+      {
+        "text": "Mutual Fund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "63a5390e-c752-41ad-99da-757b0847cf13",
+  "name": "faq.finance_terms.define.earned_income_tax_credit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "18025af3-0c09-461b-8e51-aaab0c19194e",
+          "required": false,
+          "dataType": "@finance-term",
+          "name": "finance-term",
+          "value": "$finance-term",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Earned Income Tax Credit (EITC) is a benefit available to filers with low-income earners whose AGI (Adjusted Gross Income) is below the maximum limit set annually by the IRS. This tax credit is targeted primarily to families with children who are filing jointly and can fall within a pretty large range annually."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
