@@ -13,11 +13,7 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Hola! Here are some things I can do:
-            \n\n🗄 Say any financial term and I'll define it! Examples: \"401k\", \"head of household\"
-            \n\n📘 Say \"estimate my taxes\" and I'll help you with that.
-            \n\n📘 Say \"feedback\" to let my overlords know how to improve.
-            \n"
+          "speech": "Hola! Here are some things I can do:\n            \n\n🗄 Say any financial term and I\u0027ll define it! Examples: \"401k\", \"head of household\"\n            \n\n📘 Say \"estimate my taxes\" and I\u0027ll help you with that.\n            \n\n📘 Say \"feedback\" to let my overlords know how to improve.\n            \n"
         }
       ],
       "defaultResponsePlatforms": {},
