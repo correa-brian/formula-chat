@@ -1,0 +1,41 @@
+[
+  {
+    "value": "Federal",
+    "synonyms": [
+      "Federal",
+      "fed",
+      "national"
+    ]
+  },
+  {
+    "value": "State",
+    "synonyms": [
+      "State",
+      "st"
+    ]
+  },
+  {
+    "value": "Local",
+    "synonyms": [
+      "Local",
+      "city",
+      "municipal"
+    ]
+  },
+  {
+    "value": "All",
+    "synonyms": [
+      "All",
+      "all of them",
+      "all the above"
+    ]
+  },
+  {
+    "value": "Both",
+    "synonyms": [
+      "Both",
+      "federal and state",
+      "state and federal"
+    ]
+  }
+]

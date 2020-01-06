@@ -1,0 +1,9 @@
+{
+  "id": "a41e6ed3-b1f1-4dd6-9103-b287562e58cc",
+  "name": "estimate_tax_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}
