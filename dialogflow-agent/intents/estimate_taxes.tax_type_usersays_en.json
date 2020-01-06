@@ -1,0 +1,165 @@
+[
+  {
+    "id": "33d39f51-e114-462f-ad55-3c883942372a",
+    "data": [
+      {
+        "text": "both",
+        "alias": "estimate_tax_type",
+        "meta": "@estimate_tax_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "federal and state",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbff3aff-6bda-4b00-af19-106460e02902",
+    "data": [
+      {
+        "text": "both",
+        "alias": "estimate_tax_type",
+        "meta": "@estimate_tax_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7353db2-b0d2-4f33-9464-f7dd3641b65a",
+    "data": [
+      {
+        "text": "all",
+        "alias": "estimate_tax_type",
+        "meta": "@estimate_tax_type",
+        "userDefined": false
+      },
+      {
+        "text": " my taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec309c43-5034-41e9-b0fb-092ca3cd2210",
+    "data": [
+      {
+        "text": "Let\u0027s do my ",
+        "userDefined": false
+      },
+      {
+        "text": "federal and state",
+        "alias": "estimate_tax_type",
+        "meta": "@estimate_tax_type",
+        "userDefined": false
+      },
+      {
+        "text": " taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14208785-0f4c-466c-8105-c7148dbb6bc3",
+    "data": [
+      {
+        "text": "city",
+        "alias": "estimate_tax_type",
+        "meta": "@estimate_tax_type",
+        "userDefined": false
+      },
+      {
+        "text": " taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6699b8dc-4370-464c-9107-c92837c18ecf",
+    "data": [
+      {
+        "text": "local",
+        "alias": "estimate_tax_type",
+        "meta": "@estimate_tax_type",
+        "userDefined": false
+      },
+      {
+        "text": " taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2c1d604-3654-4c7a-923b-b8b9e9f5577c",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "state",
+        "alias": "estimate_tax_type",
+        "meta": "@estimate_tax_type",
+        "userDefined": false
+      },
+      {
+        "text": " taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e81372a7-3aee-44b4-8afb-673d82a9a992",
+    "data": [
+      {
+        "text": "federal",
+        "alias": "estimate_tax_type",
+        "meta": "@estimate_tax_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08ed9d85-b4ab-45ff-aab2-92bcb95b5994",
+    "data": [
+      {
+        "text": "fed",
+        "alias": "estimate_tax_type",
+        "meta": "@estimate_tax_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "id": "14441b5b-1f9b-4975-9bfb-d3c92e2e15b9",
+  "name": "estimate_taxes.tax_type",
+  "auto": true,
+  "contexts": [
+    "estimate_taxes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "estimate_taxes",
+      "affectedContexts": [
+        {
+          "name": "estimate_taxes",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e49a08a1-f8c4-477b-8cb5-fa25e5a09944",
+          "required": true,
+          "dataType": "@estimate_tax_type",
+          "name": "estimate_tax_type",
+          "value": "$estimate_tax_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I got $estimate_tax_type. Now we\u0027ll need your filing status. Are you filing single, head of household, married or married filing jointly?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

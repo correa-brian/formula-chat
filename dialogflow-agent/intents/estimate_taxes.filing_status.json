@@ -1,0 +1,52 @@
+{
+  "id": "206194e7-f642-4342-b24e-4ea8b633ef18",
+  "name": "estimate_taxes.filing_status",
+  "auto": true,
+  "contexts": [
+    "estimate_taxes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "estimate_taxes",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6ae4609a-59ac-4b67-8907-deddc015b8ca",
+          "required": false,
+          "dataType": "@estimate_filing_status",
+          "name": "estimate_filing_status",
+          "value": "$estimate_filing_status",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "That is $estimate_filing_status. Now let\u0027s move on to your income."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

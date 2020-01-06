@@ -1,0 +1,58 @@
+[
+  {
+    "id": "65379104-42ab-481e-adde-a0d6c70ec445",
+    "data": [
+      {
+        "text": "head of household",
+        "alias": "estimate_filing_status",
+        "meta": "@estimate_filing_status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69ad5ee5-8d21-48f7-81ac-ea2b42edf012",
+    "data": [
+      {
+        "text": "married filing jointly",
+        "alias": "estimate_filing_status",
+        "meta": "@estimate_filing_status",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9066cad6-cb32-4140-a12d-2054153fbb02",
+    "data": [
+      {
+        "text": "married",
+        "alias": "estimate_filing_status",
+        "meta": "@estimate_filing_status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a99d19bd-46cb-4737-8a80-ae02b03cc890",
+    "data": [
+      {
+        "text": "single",
+        "alias": "estimate_filing_status",
+        "meta": "@estimate_filing_status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
