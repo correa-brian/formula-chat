@@ -27,7 +27,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
   function calculateFederalTaxes(agent) {
     const queryResult  = request.body.queryResult;
     const outputContext = queryResult.outputContexts || [];
-	const params = outputContext[1].parameters;
+	const params = outputContext[0].parameters;
     let filingStatus = entityToStatusMap[params.estimate_filing_status];
     let unitCurrency = params['unit-currency'];
 
@@ -56,16 +56,15 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
    	console.log('outputContext', JSON.stringify(outputContext, null, 2));
 
 	const params = outputContext[0].parameters;
-      let unitNumber = params['unit-number'];
-		let deduction = unitNumber * 5;
-  const response = "Your deduction is" + deduction.toString(10);
-  agent.add(response);
-
+	let unitNumber = params['unit-number'];
+	let deduction = unitNumber * 5;
+	const response = "Your deduction is" + deduction.toString(10);
+	agent.add(response);
   }
 
   let intentMap = new Map();
   intentMap.set('Default Fallback Intent', fallback);
-  intentMap.set('estimate.taxes.filing.status.income', calculateFederalTaxes);
+  intentMap.set('estimate_taxes.income', calculateFederalTaxes);
   intentMap.set('Home_office_deduction - yess - yes', calculateHomeOfficeDeduction);
 
   agent.handleRequest(intentMap);
