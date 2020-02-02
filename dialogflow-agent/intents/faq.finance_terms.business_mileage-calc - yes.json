@@ -1,0 +1,52 @@
+{
+  "id": "72cc4ad5-7154-453a-8b2e-35a904f4c2f2",
+  "parentId": "a2f9ad7c-c089-456b-ac8c-68314a49d978",
+  "rootParentId": "3b4203de-777f-48df-9dcb-dfd0b6af69fd",
+  "name": "faq.finance_terms.business_mileage-calc - yes",
+  "auto": true,
+  "contexts": [
+    "faqfinance_termsdefinebusiness_mileage-calc-followup",
+    "faqfinance_termsbusiness_mileage-calc-followup",
+    "faqfinance_termsdefinebusiness_mileage_deduction-yes4-followup",
+    "faqfinance_termsdefinebusiness_mileage_deduction-yes-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faqfinance_termsdefinebusiness_mileage_deduction.faqfinance_termsdefinebusiness_mileage_deduction-yes.faqfinance_termsdefinebusiness_mileage_deduction-yes-getuserinput.faqfinance_termsbusiness_mileage-calc-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c300479a-bc32-4d6b-ae92-7fa6ae2963e0",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "unit-number",
+          "value": "$unit-number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

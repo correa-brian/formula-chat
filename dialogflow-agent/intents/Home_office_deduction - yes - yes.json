@@ -1,0 +1,55 @@
+{
+  "id": "d926c843-6857-46d8-b32f-a12cc66a02da",
+  "parentId": "acc805e8-d598-416b-b5ee-072d0ad89242",
+  "rootParentId": "fa0a5fc3-94db-49a8-bf36-a345d5d12169",
+  "name": "Home_office_deduction - yes - yes",
+  "auto": true,
+  "contexts": [
+    "Home_office_deduction-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Home_office_deduction.Home_office_deduction-yes.Home_office_deduction-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "Home_office_deduction-yes-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Sweet! Are you self-employed or running your own business?",
+          "replies": [
+            "Yes"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Sweet! Are you self-employed or running your own business?",
+            "Let\u0027s get it :). First question, are you running your own business or self-employed?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

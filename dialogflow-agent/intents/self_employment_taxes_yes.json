@@ -1,0 +1,55 @@
+{
+  "id": "d8af7f29-b569-4c95-80f4-e7e090011e56",
+  "name": "self_employment_taxes_yes",
+  "auto": true,
+  "contexts": [
+    "self_employment_taxes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "self_employment_taxes",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "self_employment_taxes_yes",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Let\u0027s do it! Do you want us to estimate them for 2019, or 2020?",
+          "replies": [
+            "2019",
+            "2020"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Let\u0027s do it! Do you want us to estimate them for 2019, or 2020?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

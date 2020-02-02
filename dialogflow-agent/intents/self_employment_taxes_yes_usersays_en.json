@@ -1,0 +1,99 @@
+[
+  {
+    "id": "dff0ba25-60b3-42b2-853d-6f8db40008ad",
+    "data": [
+      {
+        "text": "👍",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8ab31ab-6fe0-42c5-aa60-d3b84a0088ea",
+    "data": [
+      {
+        "text": "sel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99644cf9-b7ca-4325-b808-80aab3800c2c",
+    "data": [
+      {
+        "text": "please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f525118f-1b5b-4e34-9aae-d333a6301f9a",
+    "data": [
+      {
+        "text": "of course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b00a16c0-26d4-4c45-934f-06d017647ce2",
+    "data": [
+      {
+        "text": "y",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d32eaab4-25db-4f78-ac03-2553073e8522",
+    "data": [
+      {
+        "text": "yep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e0e48fb-009b-4a09-b040-95eab0dcf537",
+    "data": [
+      {
+        "text": "yeah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e0182f7-c418-433e-84fe-39e2fd3068a0",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

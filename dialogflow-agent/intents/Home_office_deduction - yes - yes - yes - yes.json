@@ -1,0 +1,59 @@
+{
+  "id": "bfc1e206-8abf-407b-8ddd-a143ae950893",
+  "parentId": "637616a9-68ac-44a8-b750-5df28de933a5",
+  "rootParentId": "fa0a5fc3-94db-49a8-bf36-a345d5d12169",
+  "name": "Home_office_deduction - yes - yes - yes - yes",
+  "auto": true,
+  "contexts": [
+    "Home_office_deduction-yes-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Home_office_deduction.Home_office_deduction-yes.Home_office_deduction-yes-yes.Home_office_deduction-yes-yes-yes.Home_office_deduction-yes-yes-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "Home_office_deduction-yes-yes-yes-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "Nice! Is your 🏠 1. Your principal place of business or 2. A place where you meet clients or customers  or 3. A separate structure not attached to your home (like a garage or studio)."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Answer \"Yes\" if any of the above apply.",
+          "replies": [
+            "Yes"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Nice! Is your 🏠 1. Your principal place of business or 2. A place where you meet clients or customers  or 3. A separate structure not attached to your home. Examples could include a garage or studio. Answer \"Yes\" if any of the above apply."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "e7ae83b3-56f9-4a2e-aa8e-6742079dc1d1",
+  "name": "office_expense_question_yes",
+  "auto": true,
+  "contexts": [
+    "office_expense_question"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "office_expense_question",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "office_expense_question_yes",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Great! What was the cost of the phone, tablet or computer?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

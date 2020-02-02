@@ -1,0 +1,54 @@
+{
+  "id": "7edbe697-5209-4ce7-a11c-acbeba3eabac",
+  "name": "self_employment_taxes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "self_employment_taxes",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "Self-Employment taxes are your contributions to Social Security and Medicare if you work for yourself. This rate is currently 15.3% for anyone who earned over $400 being self-employed. To avoid a penalty, you\u0027ll want to pay this tax quarterly to the IRS."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Want me to estimate your self-employment taxes?",
+          "replies": [
+            "👍"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Self-Employment taxes are your contributions to Social Security and Medicare if you work for yourself. This rate is currently 15.3% for anyone who earned over $400 being self-employed. To avoid a penalty, you\u0027ll want to pay this tax quarterly to the IRS. Want me to estimate your self-employment taxes?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

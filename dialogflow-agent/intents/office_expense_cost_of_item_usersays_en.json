@@ -1,0 +1,16 @@
+[
+  {
+    "id": "46e5f788-94aa-4e89-82cf-dac9e45b6bc0",
+    "data": [
+      {
+        "text": "1000",
+        "alias": "office_expense_cost_of_item",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

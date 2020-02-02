@@ -1,5 +1,5 @@
 {
-  "id": "6ab2ed8e-77dc-47da-9038-8b0a13c79c40",
+  "id": "59cca870-d292-49d9-b0f6-706050b5e0c8",
   "name": "help",
   "auto": true,
   "contexts": [],
@@ -10,14 +10,24 @@
       "parameters": [],
       "messages": [
         {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://media0.giphy.com/media/3oz8y0bx23FDPCNoEU/giphy.gif?cid\u003d790b76110280e856a0492a4204e205c5750eacb1738f786e\u0026rid\u003dgiphy.gif"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "Hola! Here are some things I can do:\n            \n🗄 Ask any financial term and I\u0027ll define it! Examples: \"401k\", \"head of household\"\n\n👩🏽‍💻 Say \"estimate my taxes\" and I\u0027ll help you with that."
+        },
+        {
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Hola! Here are some things I can do:
-            \n\n🗄 Say any financial term and I'll define it! Examples: \"401k\", \"head of household\"
-            \n\n📘 Say \"estimate my taxes\" and I'll help you with that.
-            \n\n📘 Say \"feedback\" to let my overlords know how to improve.
-            \n"
+          "speech": "Hola! Here are some things I can do:\n            \n\n🗄 Say any financial term and I\u0027ll define it! Examples: \"401k\", \"head of household\"\n            \n\n📘 Say \"estimate my taxes\" and I\u0027ll help you with that."
         }
       ],
       "defaultResponsePlatforms": {},

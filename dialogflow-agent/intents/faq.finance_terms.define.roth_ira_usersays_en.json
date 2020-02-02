@@ -1,29 +1,19 @@
 [
   {
-    "id": "31dc8a18-8006-4d3e-b1e2-132814529280",
+    "id": "7bb05d7d-4cb8-4d09-9a94-85d43a3af663",
     "data": [
       {
-        "text": "Roth ",
+        "text": "What are ",
         "userDefined": false
       },
       {
-        "text": "Individual Retirement Account",
-        "alias": "finance-term1",
-        "meta": "@finance-term",
-        "userDefined": false
-      },
-      {
-        "text": " (",
-        "userDefined": false
-      },
-      {
-        "text": "IRA",
+        "text": "roth iras",
         "alias": "finance-term",
         "meta": "@finance-term",
         "userDefined": false
       },
       {
-        "text": ")",
+        "text": "?",
         "userDefined": false
       }
     ],
@@ -32,7 +22,37 @@
     "updated": 0
   },
   {
-    "id": "38a8ea22-51e2-4b05-a984-abb679453838",
+    "id": "956bca62-0fb9-4180-8e1f-c520b1f2030e",
+    "data": [
+      {
+        "text": "Roth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "806dce9b-e5ee-478d-9fbd-05d89516029a",
+    "data": [
+      {
+        "text": "Tell me about a ",
+        "userDefined": false
+      },
+      {
+        "text": "Roth IRA",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f510168a-67e9-454f-805d-1a581e0fbfa6",
     "data": [
       {
         "text": "What\u0027s a ",
@@ -54,7 +74,7 @@
     "updated": 0
   },
   {
-    "id": "694350d3-56fe-481f-bcb6-b9ba666085c0",
+    "id": "1c6fce74-d2c4-4c5a-9b24-2299fb6888b1",
     "data": [
       {
         "text": "What is a Roth?",
@@ -66,7 +86,7 @@
     "updated": 0
   },
   {
-    "id": "f60f240e-fbda-46b3-b155-b210ab9327e9",
+    "id": "ff78310f-5308-4cff-82b9-41607c148fb1",
     "data": [
       {
         "text": "Roth IRA",

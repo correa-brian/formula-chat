@@ -1,0 +1,30 @@
+[
+  {
+    "id": "79c20765-86d7-4a86-9727-13910fd264d4",
+    "data": [
+      {
+        "text": "2020",
+        "alias": "self_employment_taxes_yes_year",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5889de65-006d-46db-bc59-eef641264034",
+    "data": [
+      {
+        "text": "2019",
+        "alias": "self_employment_taxes_yes_year",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

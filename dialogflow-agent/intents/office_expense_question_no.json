@@ -1,0 +1,44 @@
+{
+  "id": "26c5b85b-1bb7-4029-8944-fb5d91d7b3b7",
+  "name": "office_expense_question_no",
+  "auto": true,
+  "contexts": [
+    "office_expense_question"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "office_expense_question",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "office_expense_question_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "All good - you can always ask me later by saying something like \"Deduct Computer\" or \"Office Expense.\" Are there any other tax questions I can help with?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

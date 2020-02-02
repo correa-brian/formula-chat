@@ -1,0 +1,47 @@
+{
+  "id": "55a37074-3615-43d1-93d2-6a10457eb965",
+  "name": "meme",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Tax joke",
+          "imageUrl": "https://media.distractify.com/brand-img/1PPVZlmP5/1440x754/tax-day-meme--1554911890050.png",
+          "buttons": [
+            {
+              "text": "🚀"
+            },
+            {
+              "text": "🧨"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

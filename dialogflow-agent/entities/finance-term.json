@@ -1,0 +1,9 @@
+{
+  "id": "ef573619-42f7-4d3d-8d8e-5fc24f1071ae",
+  "name": "finance-term",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

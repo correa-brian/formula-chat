@@ -1,5 +1,5 @@
 {
-  "id": "a89032be-f0f7-45d1-b916-9907246e6d22",
+  "id": "c45b94c7-b9aa-4536-bc81-70e64b0c39e4",
   "name": "faq.finance_terms.list",
   "auto": true,
   "contexts": [],
@@ -13,7 +13,7 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Great to hear you're learning about finance! Find a list of financial terms at savingformula.com."
+          "speech": "Great to hear you\u0027re learning about finance! Find a list of financial terms at savingformula.com."
         }
       ],
       "defaultResponsePlatforms": {},

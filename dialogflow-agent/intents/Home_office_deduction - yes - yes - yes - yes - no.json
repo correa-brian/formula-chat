@@ -1,0 +1,39 @@
+{
+  "id": "752030a7-fdea-41a1-8c31-8adab1ce85d6",
+  "parentId": "bfc1e206-8abf-407b-8ddd-a143ae950893",
+  "rootParentId": "fa0a5fc3-94db-49a8-bf36-a345d5d12169",
+  "name": "Home_office_deduction - yes - yes - yes - yes - no",
+  "auto": true,
+  "contexts": [
+    "Home_office_deduction-yes-yes-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Home_office_deduction.Home_office_deduction-yes.Home_office_deduction-yes-yes.Home_office_deduction-yes-yes-yes.Home_office_deduction-yes-yes-yes-yes.Home_office_deduction-yes-yes-yes-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Okay. It doesn\u0027t look like you\u0027ll qualify for the Home Office Deduction, but you can always talk to a tax professional to double check. Is there anything else you want to chat about?",
+            "Okay. It doesn\u0027t look like you\u0027ll qualify for the Home Office Deduction, but you can always talk to a tax professional to double check. Can we help with anything else?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

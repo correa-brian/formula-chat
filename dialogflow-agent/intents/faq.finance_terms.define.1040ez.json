@@ -1,5 +1,5 @@
 {
-  "id": "c3e6a170-27d2-4974-9b47-bad347556d0a",
+  "id": "7b20e1cd-3d2f-4bd0-bd07-041eac0958eb",
   "name": "faq.finance_terms.define.1040ez",
   "auto": true,
   "contexts": [],
@@ -7,7 +7,7 @@
     {
       "resetContexts": false,
       "affectedContexts": [],
-      "parameters": [ ],
+      "parameters": [],
       "messages": [
         {
           "type": 0,

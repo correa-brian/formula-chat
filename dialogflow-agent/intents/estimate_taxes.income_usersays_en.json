@@ -1,0 +1,72 @@
+[
+  {
+    "id": "04bc5b56-e243-4828-9943-904d6bdf751b",
+    "data": [
+      {
+        "text": "$40,000",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "428986de-23a0-453d-ba05-59c7b4533d9e",
+    "data": [
+      {
+        "text": "$90,000",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f79a3f5a-e881-458c-8957-1e7f03a920ec",
+    "data": [
+      {
+        "text": "$10,000",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83f5ea83-723e-45e4-b013-36157140916b",
+    "data": [
+      {
+        "text": "$120,000",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5bee49b7-80e2-4be1-81d8-07936b91434d",
+    "data": [
+      {
+        "text": "$28,000",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

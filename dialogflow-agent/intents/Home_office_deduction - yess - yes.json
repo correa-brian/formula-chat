@@ -1,0 +1,51 @@
+{
+  "id": "2d9a6801-a3b3-42b8-9dcd-9282be6cfe07",
+  "parentId": "2dc1402d-529b-4918-b717-7f90f66c3760",
+  "rootParentId": "fa0a5fc3-94db-49a8-bf36-a345d5d12169",
+  "name": "Home_office_deduction - yess - yes",
+  "auto": true,
+  "contexts": [
+    "Home_office_deduction-finalyes-followup",
+    "Home_office_deduction-yess-followup",
+    "Home_office_deduction-yes6-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Home_office_deduction.Home_office_deduction-yes.Home_office_deduction-yes-yes.Home_office_deduction-yes-yes-yes.Home_office_deduction-yes-yes-yes-yes.Home_office_deduction-yes-yes-yes-yes-yes.Home_office_deduction-yess.Home_office_deduction-yess-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "86f4f79e-cdb1-4d83-889f-ff708779e2ff",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "unit-number",
+          "value": "$unit-number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

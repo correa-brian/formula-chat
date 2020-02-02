@@ -1,0 +1,55 @@
+{
+  "id": "b8dd9d27-29a7-401c-990c-52483b0dbfb4",
+  "name": "tell_me_a_joke",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Whoever said that the truth never hurts never had to fill out a form 1040 🤕",
+            "Tax Day is the day that ordinary Americans send their money to Washington, D.C., and wealthy Americans send their money to the Cayman Islands 🏝️",
+            "Children may be deductible, but they are still taxing 👶",
+            "The IRS suggests filing early to reduce the chance that someone will steal your identity and file before you. Honestly, if somebody wants my identity so badly they\u0027ll file my tax return for me, go crazy. You can mow my lawn while you\u0027re at it, too 🤣",
+            "I\u0027m not going to pay taxes. When they say I\u0027m going to prison, I\u0027ll say \u0027No, prisons cost taxpayers a lot of money. You keep what it would have cost to incarcerate me, and we\u0027ll call it even.\u0027",
+            "Worried about an IRS audit? Avoid what\u0027s called a red flag. That\u0027s something the IRS always looks for. For example, say you have some money left in your bank account after paying taxes. That\u0027s a red flag 🚩",
+            "Why won\u0027t sharks attack tax inspectors? Professional courtesy 🦈",
+            "A fine is a tax for doing wrong.\nA tax is a fine for doing well. 🤔",
+            "What\u0027s the difference between death and taxes? \nCongress doesn\u0027t meet every year to make death worse.",
+            "Where do homeless accountants live?\nIn a tax shelter",
+            "What is Father Christmas\u0027s tax status? Elf-Employed 🎅",
+            "What’s the difference between a tax auditor and a Rottweiler? A Rottweiler eventually lets go 🐕",
+            "The best way to teach your children about taxes is to eat 30% of their ice cream 👶🍦",
+            "What do you call a tax on hitchhikers? A thumbtax 📌",
+            "Communism is like tax evasion. At first it seems great, but at the end of the day you‘re going to have government agents knocking at your door.",
+            "People that cheat on their taxes truly disgust me... This is not the world I want to raise my 27 dependents in 👶",
+            "Only 10% of Americans file their taxes correctly.\nIt\u0027s hard to believe that 95% of us can\u0027t do simple math  🔢",
+            "Where does a pirate go to do his taxes? To H\u0026Rrrrrr Block 🏴‍☠️🦜",
+            "What do you call a Sith Lord who doesn’t pay taxes? A tax e-vader 🚀",
+            "You paid more taxes this year than Amazon. That\u0027s the joke 🤦",
+            "What does Spiderman get taxed on? Net Income 🕸️",
+            "Why is the IRS always tired? Collecting money for the government is taxing 😫",
+            "How does Santa’s tax accountant value his sleigh? Net PRESENT Value 🎁🎅🛷🦌"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

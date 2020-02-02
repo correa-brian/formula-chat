@@ -1,5 +1,5 @@
 {
-  "id": "206194e7-f642-4342-b24e-4ea8b633ef18",
+  "id": "467f8a56-68ed-43d9-9404-97a0409c2810",
   "name": "estimate_taxes.filing_status",
   "auto": true,
   "contexts": [
@@ -31,10 +31,24 @@
       ],
       "messages": [
         {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn%3AANd9GcRWXt3kx_N140MsAIfAISGr3IYEmLa_7NXZvc5Jabjski1Rczwk"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "✅ $estimate_filing_status\n\nNow let\u0027s move on to your income. How much did you make last year?  💸 📈"
+        },
+        {
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "That is $estimate_filing_status. Now let\u0027s move on to your income."
+          "speech": "✅ That is $estimate_filing_status. Now let\u0027s move on to your income. How much did you make last year?  💸"
         }
       ],
       "defaultResponsePlatforms": {},

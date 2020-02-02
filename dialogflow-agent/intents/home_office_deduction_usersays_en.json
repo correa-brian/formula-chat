@@ -1,0 +1,136 @@
+[
+  {
+    "id": "674aeb27-c524-4845-aebe-9e2dc339362b",
+    "data": [
+      {
+        "text": "work from home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6a35485-1162-4bd1-a3fb-5afdd253790a",
+    "data": [
+      {
+        "text": "work at home deduction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe9dc71d-6792-4b5c-8650-88d6d9cae991",
+    "data": [
+      {
+        "text": "deduction work from home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d48e5af-6416-4d50-a742-fb809473fc4a",
+    "data": [
+      {
+        "text": "deduct ",
+        "userDefined": false
+      },
+      {
+        "text": "home office",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      },
+      {
+        "text": " space",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2e490bd-0cc2-4dd2-b07d-81c9097c9dfc",
+    "data": [
+      {
+        "text": "home office",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31aef936-3bb8-4ec3-a9a1-0b9667e7fc9d",
+    "data": [
+      {
+        "text": "How much is a ",
+        "userDefined": false
+      },
+      {
+        "text": "home office deduction",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c8908a4-8e7f-49f1-a19a-8d89a37678a6",
+    "data": [
+      {
+        "text": "Can I take the ",
+        "userDefined": false
+      },
+      {
+        "text": "home office deduction",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fbbf2ff-7395-49fa-9b6a-e0040284e1ac",
+    "data": [
+      {
+        "text": "What\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "home office deduction",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

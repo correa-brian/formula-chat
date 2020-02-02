@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ab0d3402-c98e-4635-b407-b9d8a68f0118",
+    "data": [
+      {
+        "text": "100000",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bdb7d9e-0181-43e0-9442-32bdd6b515d2",
+    "data": [
+      {
+        "text": "79000.12",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe2a0649-bdfe-473b-b050-5d237db9cb28",
+    "data": [
+      {
+        "text": "79,000.37",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaa2d2eb-d87b-4fb8-a73f-13304cc9a906",
+    "data": [
+      {
+        "text": "$1,000,000.47",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "124c6c43-b895-47b5-81ef-fb00e1339ded",
+    "data": [
+      {
+        "text": "$385,000.12",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f6ef572-1024-424c-a37d-dcd93b0f3bbd",
+    "data": [
+      {
+        "text": "$79,000.92",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0457088b-595d-44d9-bed4-ac91729c0b3c",
+    "data": [
+      {
+        "text": "$10,000",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "017ac217-ec24-4669-af33-9c1d1659dc05",
+    "data": [
+      {
+        "text": "$1,000",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "fe21cbff-98da-4f22-a959-44bb71abb59d",
+  "parentId": "d26ff81b-8ded-4cf9-8dcc-7970076f699e",
+  "rootParentId": "3462b0e9-0434-48de-8913-fce724743761",
+  "name": "estimate_taxes.income.yes.state_taxes",
+  "auto": true,
+  "contexts": [
+    "estimate_taxesincomeyes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "estimate_taxesincome.estimate_taxesincome-yes.estimate_taxesincomeyes-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ebca4f11-cd20-4b1a-b566-5066d3ebf596",
+          "required": false,
+          "dataType": "@us_state",
+          "name": "us_state",
+          "value": "$us_state",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

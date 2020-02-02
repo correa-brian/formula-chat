@@ -1,0 +1,62 @@
+{
+  "id": "d26ff81b-8ded-4cf9-8dcc-7970076f699e",
+  "parentId": "3462b0e9-0434-48de-8913-fce724743761",
+  "rootParentId": "3462b0e9-0434-48de-8913-fce724743761",
+  "name": "estimate_taxes.income.yes",
+  "auto": true,
+  "contexts": [
+    "estimate_taxesincome-followup",
+    "estimate_taxes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "estimate_taxesincome.estimate_taxesincome-yes",
+      "affectedContexts": [
+        {
+          "name": "estimate_taxesincomeyes-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "estimate_taxes",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://media2.giphy.com/media/rqRRLgj0rFNJK/giphy.gif?cid\u003d790b7611ac089b920d296452b64c18641e42495ce82435b6\u0026rid\u003dgiphy.gif"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "Let\u0027s goooo 🦅 What state do you live in? 🧩"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ok. What state do you live in?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

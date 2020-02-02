@@ -1,0 +1,57 @@
+{
+  "id": "7c017c8e-51e1-4699-878c-992fcd5378d6",
+  "name": "office_expense_percent_for_work",
+  "auto": true,
+  "contexts": [
+    "office_expense_cost_of_item"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "office_expense_cost_of_item",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "office_expense_percent_for_work",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "782d11e5-b69c-4979-8857-755ea0d7ed74",
+          "required": false,
+          "dataType": "@sys.percentage",
+          "name": "percentage",
+          "value": "$percentage",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "7c7d4bf8-fcfb-4179-92f9-361ac8282a20",
+  "parentId": "3b4203de-777f-48df-9dcb-dfd0b6af69fd",
+  "rootParentId": "3b4203de-777f-48df-9dcb-dfd0b6af69fd",
+  "name": "faq.finance_terms.define.business_mileage_deduction - no",
+  "auto": true,
+  "contexts": [
+    "faqfinance_termsdefinebusiness_mileage_deduction-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faqfinance_termsdefinebusiness_mileage_deduction.faqfinance_termsdefinebusiness_mileage_deduction-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Okay, no worries. Let us know if you\u0027re interested later on by messaging \"Business Mileage.\" Is there anything else we can help with?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

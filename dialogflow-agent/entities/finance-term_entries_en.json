@@ -1,0 +1,69 @@
+[
+  {
+    "value": "Money market account",
+    "synonyms": [
+      "MMA",
+      "Money market account"
+    ]
+  },
+  {
+    "value": "Tax credit",
+    "synonyms": [
+      "tax credit"
+    ]
+  },
+  {
+    "value": "Tax deduction",
+    "synonyms": [
+      "tax deduction"
+    ]
+  },
+  {
+    "value": "Tax write-off",
+    "synonyms": [
+      "tax write-off",
+      "write-off"
+    ]
+  },
+  {
+    "value": "Traditional Individual Retirement Account",
+    "synonyms": [
+      "IRA",
+      "Individual Retirement Account",
+      "Traditional IRA"
+    ]
+  },
+  {
+    "value": "Money market fund",
+    "synonyms": [
+      "Money market fund"
+    ]
+  },
+  {
+    "value": "Roth IRA",
+    "synonyms": [
+      "Roth IRA"
+    ]
+  },
+  {
+    "value": "Earned Income Tax Credit",
+    "synonyms": [
+      "Earned Income Tax Credit",
+      "EITC"
+    ]
+  },
+  {
+    "value": "Home office deduction",
+    "synonyms": [
+      "Home office deduction",
+      "home office"
+    ]
+  },
+  {
+    "value": "Municipal Bonds",
+    "synonyms": [
+      "Municipal Bonds",
+      "munis"
+    ]
+  }
+]

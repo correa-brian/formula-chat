@@ -1,0 +1,50 @@
+{
+  "id": "00cc8275-44f4-4716-9ada-0038529cf16e",
+  "name": "self_employment_taxes_yes_year_income",
+  "auto": true,
+  "contexts": [
+    "self_employment_taxes_yes_year"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "self_employment_taxes_yes_year",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "self_employment_taxes_yes_year_income",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c3f506af-1ab8-4030-9239-ce0b7c2b4f1d",
+          "required": false,
+          "dataType": "@sys.unit-currency",
+          "name": "unit-currency",
+          "value": "$unit-currency",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
