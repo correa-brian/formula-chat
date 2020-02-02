@@ -6,7 +6,7 @@ const stateMap = {"alabama":{"single":{"rates":[{"rate":0.02,"upTo":500},{"rate"
 
 const functions = require('firebase-functions');
 const {WebhookClient} = require('dialogflow-fulfillment');
-const {Card, Suggestion} = require('dialogflow-fulfillment');
+const {Image, Card, Suggestion} = require('dialogflow-fulfillment');
 const estimator = require('us-tax-estimator');
 
 process.env.DEBUG = 'dialogflow:debug'; // enables lib debugging statements
@@ -54,7 +54,10 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
 
     // When taxable income is negative, then its a credit
     if (taxableIncome < 0) {
-      agent.add("You may qualify for a refund! Based on your income your estimated state refund is $" + Math.abs(taxableIncome.toFixed(2)));
+      let img = new Image("https://media1.tenor.com/images/aa84b42d37c8ae5f1648493e9954a533/tenor.gif?itemid=5875311");
+      agent.add(img);
+      let refund = Math.abs(taxableIncome);
+      agent.add("💰💰💰 You may qualify for a refund! Based on your income your estimated state refund is $" + refund.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,'));
       return;
     }
 
@@ -86,7 +89,19 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
   		}
   	}
 
-    agent.add(`Your estimated state taxes are $` + taxesOwed.toFixed(2));
+     // Negative taxes. Refund.
+    if (taxesOwed === 0) {
+      let img = new Image("https://media1.tenor.com/images/aa84b42d37c8ae5f1648493e9954a533/tenor.gif?itemid=5875311");
+      agent.add(img);
+      agent.add("💰💰💰 Your state doesn't charge income tax! 🕺💃🏽 Put that money in the bank!");
+      return;
+    }
+
+    let img = new Image("https://media1.giphy.com/media/LpctNbdeSaRvPP7jxM/giphy.gif?cid=790b7611a9a9aa2c81040e59ca2c7aa0435fe517e310c1b0&rid=giphy.gif");
+    agent.add(img);
+    agent.add(`🙊 Your estimated state taxes are $` + taxesOwed.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,'));
+    agent.add(`💳 To pay your taxes, go to your state's tax authority website. Check that you can pay with a credit/debit card or by phone📱`);
+    agent.add(`Thanks for letting me help. See ya next time ✌️`);
   }
 
   function calculateFederalTaxes(agent) {
@@ -109,10 +124,16 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
       deduction
     );
 
-    const response = "Done! Here's a summary of your federal taxes: \n\nYour taxable income is: $" + estimate.taxableIncome.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,') + "\n\nYour total federal taxes due are: $"+ estimate.tax.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,') + "\n\nYour effective tax rate is: " + estimate.effectiveTaxRate.toFixed(2) + "% \n\nAccountbot is for informational purposes only and is not intended to provide tax advice. \n\nDo you want to do your State taxes?";
-    agent.add(response);
-  }
+    let img = new Image("https://media0.giphy.com/media/11aFLiARTaeTvi/giphy.gif");
+    const response = "Done! Here's a summary of your federal taxes: \n\n🏦 Your taxable income is: $" + estimate.taxableIncome.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,') + "\n\n📊 Your total federal taxes due are: $"+ estimate.tax.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,') + "\n\n🧾 Your effective tax rate is: " + estimate.effectiveTaxRate.toFixed(2) + "% \n\n🧠 Accountbot is for informational purposes only and is not intended to provide tax advice.";
 
+    agent.add(img);
+    agent.add(response);
+    agent.add("🇺🇸 Do you want to do your State taxes?");
+    let sugg = new Suggestion("Yes! ✨");
+    sugg.addReply_("No thanks, I got it...");
+	agent.add(sugg);
+  }
 
   function calculateHomeOfficeDeduction(agent){
     let body = request.body;
@@ -180,7 +201,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
 
     const amt = income.amount;
     const currency = income.currency;
-    let parsedIncome=parseFloat(amt)
+    let parsedIncome=parseFloat(amt);
     let netEarningsSelfEmploymentMultiplier = 0.9235;
     let netIncomeSelfEmployment = parsedIncome * netEarningsSelfEmploymentMultiplier;
     let ssTaxes = 0;
