@@ -1,0 +1,52 @@
+{
+  "id": "2dc1402d-529b-4918-b717-7f90f66c3760",
+  "parentId": "954b56b8-7f07-41a3-9111-dd947f9e1587",
+  "rootParentId": "fa0a5fc3-94db-49a8-bf36-a345d5d12169",
+  "name": "Home_office_deduction - yess",
+  "auto": true,
+  "contexts": [
+    "Home_office_deduction-yes-yes-yes-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Home_office_deduction.Home_office_deduction-yes.Home_office_deduction-yes-yes.Home_office_deduction-yes-yes-yes.Home_office_deduction-yes-yes-yes-yes.Home_office_deduction-yes-yes-yes-yes-yes.Home_office_deduction-yess",
+      "affectedContexts": [
+        {
+          "name": "Home_office_deduction-yes6-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "Home_office_deduction-finalyes-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "Home_office_deduction-yess-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Great! What is the size of your home office in square feet?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

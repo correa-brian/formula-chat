@@ -1,0 +1,62 @@
+{
+  "id": "a0ee75cf-c15c-4630-a09e-22133c79543a",
+  "name": "office_expense_cost_of_item",
+  "auto": true,
+  "contexts": [
+    "office_expense_question_yes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "office_expense_cost_of_item",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "office_expense_question",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "office_expense_question_yes",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "81d58efc-a28b-4e94-8e68-fa81a0754645",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "office_expense_cost_of_item",
+          "value": "$office_expense_cost_of_item",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Fantastic, so the item cost $office_expense_cost_of_item. What percent of the time do you use the item for work?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

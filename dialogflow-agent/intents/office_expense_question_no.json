@@ -1,16 +1,21 @@
 {
-  "id": "c03b9f52-6602-40c6-b759-5b8a95618b27",
-  "name": "estimateTaxesFileStatus",
+  "id": "26c5b85b-1bb7-4029-8944-fb5d91d7b3b7",
+  "name": "office_expense_question_no",
   "auto": true,
   "contexts": [
-    "estimatetaxes-followup"
+    "office_expense_question"
   ],
   "responses": [
     {
       "resetContexts": false,
       "affectedContexts": [
         {
-          "name": "estimatetaxes-followup",
+          "name": "office_expense_question",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "office_expense_question_no",
           "parameters": {},
           "lifespan": 5
         }
@@ -21,7 +26,7 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": []
+          "speech": "All good - you can always ask me later by saying something like \"Deduct Computer\" or \"Office Expense.\" Are there any other tax questions I can help with?"
         }
       ],
       "defaultResponsePlatforms": {},

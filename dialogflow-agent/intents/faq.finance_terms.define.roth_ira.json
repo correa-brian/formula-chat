@@ -1,5 +1,5 @@
 {
-  "id": "ef07b005-759f-4b13-8d0f-84537e15a940",
+  "id": "ac575b05-8150-4b64-83a5-af4ce482e512",
   "name": "faq.finance_terms.define.roth_ira",
   "auto": true,
   "contexts": [],
@@ -14,18 +14,6 @@
           "dataType": "@finance-term",
           "name": "finance-term",
           "value": "$finance-term",
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
-        },
-        {
-          "id": "e8047113-50d4-414e-818e-369afa5d2558",
-          "required": false,
-          "dataType": "@finance-term",
-          "name": "finance-term1",
-          "value": "$finance-term1",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],

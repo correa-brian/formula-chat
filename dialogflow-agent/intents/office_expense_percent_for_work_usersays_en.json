@@ -1,0 +1,30 @@
+[
+  {
+    "id": "45ddbef4-2ce4-4544-a059-89f13be5161d",
+    "data": [
+      {
+        "text": "25.5%",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b2fc1d6-f710-458e-9be8-a68d1baa7d94",
+    "data": [
+      {
+        "text": "50%",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

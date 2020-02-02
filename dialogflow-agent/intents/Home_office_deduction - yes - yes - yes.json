@@ -1,0 +1,52 @@
+{
+  "id": "637616a9-68ac-44a8-b750-5df28de933a5",
+  "parentId": "d926c843-6857-46d8-b32f-a12cc66a02da",
+  "rootParentId": "fa0a5fc3-94db-49a8-bf36-a345d5d12169",
+  "name": "Home_office_deduction - yes - yes - yes",
+  "auto": true,
+  "contexts": [
+    "Home_office_deduction-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Home_office_deduction.Home_office_deduction-yes.Home_office_deduction-yes-yes.Home_office_deduction-yes-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "Home_office_deduction-yes-yes-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Do you use a part of your 🏠 regularly and exclusively for business purposes? (Say \"Yes\" if you\u0027re storing inventory, and this part of the home is not exclusively used for the business, you can still qualify!)",
+          "replies": [
+            "Yes"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Awesome, so far so good. Do you use a part of your home regularly and exclusively for business purposes? (Respond \"Yes\" if you\u0027re storing inventory at home, and this part of the home is not exclusively used for the business, you can still qualify!)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,387 @@
+[
+  {
+    "value": "alabama",
+    "synonyms": [
+      "alabama",
+      "AL",
+      "Ala."
+    ]
+  },
+  {
+    "value": "alaska",
+    "synonyms": [
+      "alaska",
+      "AK"
+    ]
+  },
+  {
+    "value": "arizona",
+    "synonyms": [
+      "arizona",
+      "Ariz.",
+      "AZ"
+    ]
+  },
+  {
+    "value": "arkansas",
+    "synonyms": [
+      "arkansas",
+      "Ark.",
+      "AR"
+    ]
+  },
+  {
+    "value": "california",
+    "synonyms": [
+      "california",
+      "Calif.",
+      "CA"
+    ]
+  },
+  {
+    "value": "colorado",
+    "synonyms": [
+      "colorado",
+      "Colo.",
+      "CO"
+    ]
+  },
+  {
+    "value": "connecticut",
+    "synonyms": [
+      "connecticut",
+      "Conn.",
+      "CT"
+    ]
+  },
+  {
+    "value": "delaware",
+    "synonyms": [
+      "delaware",
+      "Del.",
+      "DE"
+    ]
+  },
+  {
+    "value": "washington d.c.",
+    "synonyms": [
+      "washington d.c.",
+      "D.C.",
+      "DC"
+    ]
+  },
+  {
+    "value": "florida",
+    "synonyms": [
+      "florida",
+      "Fla.",
+      "FL"
+    ]
+  },
+  {
+    "value": "georgia",
+    "synonyms": [
+      "georgia",
+      "Ga.",
+      "GA"
+    ]
+  },
+  {
+    "value": "hawaii",
+    "synonyms": [
+      "hawaii",
+      "HI"
+    ]
+  },
+  {
+    "value": "idaho",
+    "synonyms": [
+      "idaho",
+      "ID"
+    ]
+  },
+  {
+    "value": "illinois",
+    "synonyms": [
+      "illinois",
+      "Ill.",
+      "IL"
+    ]
+  },
+  {
+    "value": "iowa",
+    "synonyms": [
+      "iowa",
+      "IA"
+    ]
+  },
+  {
+    "value": "indiana",
+    "synonyms": [
+      "indiana",
+      "Ind.",
+      "IN"
+    ]
+  },
+  {
+    "value": "kansas",
+    "synonyms": [
+      "kansas",
+      "Kans.",
+      "KS"
+    ]
+  },
+  {
+    "value": "kentucky",
+    "synonyms": [
+      "kentucky",
+      "Ky.",
+      "KY"
+    ]
+  },
+  {
+    "value": "louisiana",
+    "synonyms": [
+      "louisiana",
+      "La.",
+      "LA"
+    ]
+  },
+  {
+    "value": "maine",
+    "synonyms": [
+      "maine",
+      "ME"
+    ]
+  },
+  {
+    "value": "maryland",
+    "synonyms": [
+      "maryland",
+      "Md.",
+      "MD"
+    ]
+  },
+  {
+    "value": "massachusetts",
+    "synonyms": [
+      "massachusetts",
+      "Mass.",
+      "MA"
+    ]
+  },
+  {
+    "value": "michigan",
+    "synonyms": [
+      "michigan",
+      "Mich.",
+      "MI"
+    ]
+  },
+  {
+    "value": "minnesota",
+    "synonyms": [
+      "minnesota",
+      "Minn.",
+      "MN"
+    ]
+  },
+  {
+    "value": "mississippi",
+    "synonyms": [
+      "mississippi",
+      "Miss.",
+      "MS"
+    ]
+  },
+  {
+    "value": "missouri",
+    "synonyms": [
+      "missouri",
+      "Mo.",
+      "MO"
+    ]
+  },
+  {
+    "value": "montana",
+    "synonyms": [
+      "montana",
+      "Mont.",
+      "MT"
+    ]
+  },
+  {
+    "value": "nebraska",
+    "synonyms": [
+      "nebraska",
+      "Nebr.",
+      "NE"
+    ]
+  },
+  {
+    "value": "new hampshire",
+    "synonyms": [
+      "new hampshire",
+      "N.H.",
+      "NH"
+    ]
+  },
+  {
+    "value": "new jersey",
+    "synonyms": [
+      "new jersey",
+      "N.J.",
+      "NJ"
+    ]
+  },
+  {
+    "value": "new mexico",
+    "synonyms": [
+      "new mexico",
+      "N.M.",
+      "NM"
+    ]
+  },
+  {
+    "value": "new york",
+    "synonyms": [
+      "new york",
+      "N.Y.",
+      "ny"
+    ]
+  },
+  {
+    "value": "north carolina",
+    "synonyms": [
+      "north carolina",
+      "N.C.",
+      "NC"
+    ]
+  },
+  {
+    "value": "north dakota",
+    "synonyms": [
+      "north dakota",
+      "N.D.",
+      "ND"
+    ]
+  },
+  {
+    "value": "ohio",
+    "synonyms": [
+      "ohio",
+      "OH"
+    ]
+  },
+  {
+    "value": "oklahoma",
+    "synonyms": [
+      "oklahoma",
+      "Okla.",
+      "OK"
+    ]
+  },
+  {
+    "value": "oregon",
+    "synonyms": [
+      "oregon",
+      "Ore.",
+      "OR"
+    ]
+  },
+  {
+    "value": "pennsylvania",
+    "synonyms": [
+      "pennsylvania",
+      "Pa.",
+      "PA"
+    ]
+  },
+  {
+    "value": "rhode island",
+    "synonyms": [
+      "rhode island",
+      "R.I.",
+      "RI"
+    ]
+  },
+  {
+    "value": "south carolina",
+    "synonyms": [
+      "south carolina",
+      "S.C.",
+      "SC"
+    ]
+  },
+  {
+    "value": "south dakota",
+    "synonyms": [
+      "south dakota",
+      "S.D.",
+      "SD"
+    ]
+  },
+  {
+    "value": "tennessee",
+    "synonyms": [
+      "tennessee",
+      "Tenn.",
+      "TN"
+    ]
+  },
+  {
+    "value": "texas",
+    "synonyms": [
+      "texas",
+      "Tex.",
+      "TX"
+    ]
+  },
+  {
+    "value": "utah",
+    "synonyms": [
+      "utah",
+      "UT"
+    ]
+  },
+  {
+    "value": "vermont",
+    "synonyms": [
+      "vermont",
+      "Vt.",
+      "VT"
+    ]
+  },
+  {
+    "value": "washington",
+    "synonyms": [
+      "washington",
+      "Wash.",
+      "WA"
+    ]
+  },
+  {
+    "value": "west virginia",
+    "synonyms": [
+      "west virginia",
+      "W.Va.",
+      "WV"
+    ]
+  },
+  {
+    "value": "wisconsin",
+    "synonyms": [
+      "wisconsin",
+      "Wis.",
+      "WI"
+    ]
+  },
+  {
+    "value": "wyoming",
+    "synonyms": [
+      "wyoming",
+      "Wyo.",
+      "WY"
+    ]
+  }
+]

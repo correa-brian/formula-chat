@@ -1,16 +1,17 @@
 {
-  "id": "1efc696d-2fa1-4165-9e55-bf7442720509",
-  "parentId": "9cecc73c-290b-41b1-9c68-4566ecc55af1",
-  "rootParentId": "2914ea2e-bfd8-4a25-8c21-cde48c30bb5e",
-  "name": "estimate.taxes.filing.status.income.yes",
+  "id": "d603b504-c8ab-4b5b-9dbe-283646cf4688",
+  "parentId": "fa0a5fc3-94db-49a8-bf36-a345d5d12169",
+  "rootParentId": "fa0a5fc3-94db-49a8-bf36-a345d5d12169",
+  "name": "home_office_deduction - no",
   "auto": true,
   "contexts": [
-    "estimatetaxesfilingstatusincome-followup"
+    "home_office_deduction-followup",
+    "home_office_deduction"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "estimate.taxes.filing.status.income.estimatetaxesfilingstatusincome-yes",
+      "action": "home_office_deduction.home_office_deduction-no",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
@@ -18,7 +19,10 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Sounds good. Let\u0027s start with your zip code 😎"
+          "speech": [
+            "Okay, got it. You can always ask me later by messaging \"Home Office Deduction\".",
+            "Okay, got it. Is there anything else I can help you with?"
+          ]
         }
       ],
       "defaultResponsePlatforms": {},

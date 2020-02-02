@@ -1,0 +1,62 @@
+{
+  "id": "a4b2ceac-4b04-45b0-9c17-7ccb4ea39e5e",
+  "name": "self_employment_taxes_yes_year",
+  "auto": true,
+  "contexts": [
+    "self_employment_taxes_yes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "self_employment_taxes_yes",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "self_employment_taxes",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "self_employment_taxes_yes_year",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2f03fbcf-89c6-4f60-b5ab-fe1ee32d95ac",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "self_employment_taxes_yes_year",
+          "value": "$self_employment_taxes_yes_year",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Great! We\u0027ll calculate them for $self_employment_taxes_yes_year \n\nWhat is your income from self-employment for $self_employment_taxes_yes_year?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

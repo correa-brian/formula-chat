@@ -1,0 +1,50 @@
+{
+  "id": "1a4be8a2-ee02-4f29-8635-c10e231ad122",
+  "parentId": "3462b0e9-0434-48de-8913-fce724743761",
+  "rootParentId": "3462b0e9-0434-48de-8913-fce724743761",
+  "name": "estimate_taxes.income .no_state_taxes",
+  "auto": true,
+  "contexts": [
+    "estimate_taxes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "estimate_taxesincome.estimate_taxesincome-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://media1.tenor.com/images/cc1311169241010897346f218c459b3a/tenor.gif?itemid\u003d10628478"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "🛎️ Until next time! If you need me, I\u0027ll be here cookin\u0027 up more ways to save you money on your taxes 🍳"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sounds good! Come back anytime."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

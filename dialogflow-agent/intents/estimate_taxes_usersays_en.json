@@ -1,0 +1,98 @@
+[
+  {
+    "id": "d5ef7805-138e-4916-91d6-2f824cf7be68",
+    "data": [
+      {
+        "text": "refund estimate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5ba0fb7-d42a-4bed-8811-d620b4aea7c1",
+    "data": [
+      {
+        "text": "what\u0027s my tax refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3b3438e-df1b-4706-aa28-0d6bdb95ae5a",
+    "data": [
+      {
+        "text": "how much do I owe in taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34c904ea-da1f-466f-b740-4c3172688afe",
+    "data": [
+      {
+        "text": "taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f846405-be05-4ac2-a46c-0e03d66a551e",
+    "data": [
+      {
+        "text": "calculate my taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f101bafa-0d83-4ac0-b555-38d55a4c58bd",
+    "data": [
+      {
+        "text": "what are my taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa157125-4653-4ed5-bac8-0fc43b94bf84",
+    "data": [
+      {
+        "text": "do my taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f942e788-92f4-4012-a4e0-4bad4fc0a7b8",
+    "data": [
+      {
+        "text": "estimate my taxes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

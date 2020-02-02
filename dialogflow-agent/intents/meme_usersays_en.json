@@ -1,0 +1,59 @@
+[
+  {
+    "id": "ff26e934-9ce1-4868-8724-0b5b6e3730e0",
+    "data": [
+      {
+        "text": "memes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3b96057-2624-42e8-85d9-063fc109a42b",
+    "data": [
+      {
+        "text": "send ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a meme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dda4824c-e9b7-41de-93ed-e45d0a84c122",
+    "data": [
+      {
+        "text": "show me a meme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15ff79db-1bbf-43ad-8b0b-6680ba9d2735",
+    "data": [
+      {
+        "text": "meme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "id": "467f8a56-68ed-43d9-9404-97a0409c2810",
+  "name": "estimate_taxes.filing_status",
+  "auto": true,
+  "contexts": [
+    "estimate_taxes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "estimate_taxes",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6ae4609a-59ac-4b67-8907-deddc015b8ca",
+          "required": false,
+          "dataType": "@estimate_filing_status",
+          "name": "estimate_filing_status",
+          "value": "$estimate_filing_status",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn%3AANd9GcRWXt3kx_N140MsAIfAISGr3IYEmLa_7NXZvc5Jabjski1Rczwk"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "✅ $estimate_filing_status\n\nNow let\u0027s move on to your income. How much did you make last year?  💸 📈"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "✅ That is $estimate_filing_status. Now let\u0027s move on to your income. How much did you make last year?  💸"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

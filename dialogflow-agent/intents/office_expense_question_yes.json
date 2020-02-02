@@ -1,16 +1,23 @@
 {
-  "id": "2914ea2e-bfd8-4a25-8c21-cde48c30bb5e",
-  "name": "estimate.taxes",
+  "id": "e7ae83b3-56f9-4a2e-aa8e-6742079dc1d1",
+  "name": "office_expense_question_yes",
   "auto": true,
-  "contexts": [],
+  "contexts": [
+    "office_expense_question"
+  ],
   "responses": [
     {
       "resetContexts": false,
       "affectedContexts": [
         {
-          "name": "estimatetaxes-followup",
+          "name": "office_expense_question",
           "parameters": {},
-          "lifespan": 2
+          "lifespan": 5
+        },
+        {
+          "name": "office_expense_question_yes",
+          "parameters": {},
+          "lifespan": 5
         }
       ],
       "parameters": [],
@@ -19,7 +26,7 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Great! Let\u0027s start with your filing status.\n\nSingle 💁🏽 \nMarried 💍\nMarried Filing Separate (MFS) 🖖🏾 \nHead of Household (HoH) 🥖"
+          "speech": "Great! What was the cost of the phone, tablet or computer?"
         }
       ],
       "defaultResponsePlatforms": {},

@@ -1,0 +1,62 @@
+{
+  "id": "acc805e8-d598-416b-b5ee-072d0ad89242",
+  "parentId": "fa0a5fc3-94db-49a8-bf36-a345d5d12169",
+  "rootParentId": "fa0a5fc3-94db-49a8-bf36-a345d5d12169",
+  "name": "Home_office_deduction - yes",
+  "auto": true,
+  "contexts": [
+    "Home_office_deduction-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Home_office_deduction.Home_office_deduction-yes",
+      "affectedContexts": [
+        {
+          "name": "Home_office_deduction-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "Boom! Let\u0027s do it! We\u0027ll ask you a few questions to see if you qualify, and then help you calculate the deduction and tell you where it goes on your tax forms."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Ready to roll?",
+          "replies": [
+            "👍"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Great! We\u0027ll just need to ask you a few questions to see if you qualify. At the end, if you qualify, we\u0027ll be able to help you calculate the deduction and put it in the right spot on your Federal Income Tax Return. Ready to get going?",
+            "Boom! Let\u0027s do it! We\u0027ll ask you a few questions to see if you qualify, and then help you calculate the deduction and tell you where it goes on your tax forms. Sound good?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

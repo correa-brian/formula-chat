@@ -1,0 +1,146 @@
+[
+  {
+    "id": "19cbafc0-ace3-4e65-8f3e-a895089fe3a8",
+    "data": [
+      {
+        "text": "tablet deduction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a0e6291-e2af-4d66-9204-579f63fe65d7",
+    "data": [
+      {
+        "text": "Computer deduction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de09d349-7a5e-44de-b385-ea300773b7da",
+    "data": [
+      {
+        "text": "officeexpense",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f380a9a5-907f-478f-8810-515fb279812a",
+    "data": [
+      {
+        "text": "office expense deduction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "13f1626a-74b3-4ae8-b93c-eedcb373a48a",
+    "data": [
+      {
+        "text": "office expense",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1a5db94-7da3-4680-bf85-2d49945f834d",
+    "data": [
+      {
+        "text": "Is my computer tax deductible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94afb66c-5c9a-415c-8e69-7863c6d981ab",
+    "data": [
+      {
+        "text": "Can I deduct my tablet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52a6e198-5639-4ea5-9b1d-4371ece3571c",
+    "data": [
+      {
+        "text": "Can I deduct my phone?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b0b2a51-a888-4ec5-8943-901f0e87472a",
+    "data": [
+      {
+        "text": "Can I deduct my laptop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acfd0347-8dbb-45b0-bc19-7fe9572e36b4",
+    "data": [
+      {
+        "text": "deduct phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16301afd-9c42-4935-aa9a-f67489d41666",
+    "data": [
+      {
+        "text": "deduct tablet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b9a0f31-f52f-47bc-b039-28402904797d",
+    "data": [
+      {
+        "text": "deduct computer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  }
+]

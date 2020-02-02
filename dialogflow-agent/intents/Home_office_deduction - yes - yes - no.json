@@ -1,0 +1,36 @@
+{
+  "id": "45d82f1c-c04c-4966-905f-faea9390a1e5",
+  "parentId": "d926c843-6857-46d8-b32f-a12cc66a02da",
+  "rootParentId": "fa0a5fc3-94db-49a8-bf36-a345d5d12169",
+  "name": "Home_office_deduction - yes - yes - no",
+  "auto": true,
+  "contexts": [
+    "Home_office_deduction-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Home_office_deduction.Home_office_deduction-yes.Home_office_deduction-yes-yes.Home_office_deduction-yes-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Okay. It\u0027s not likely that you\u0027ll qualify if you aren\u0027t self-employed. While it\u0027s still possible under certain circumstances, your best bet is to consult with a tax professional."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

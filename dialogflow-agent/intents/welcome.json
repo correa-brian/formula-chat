@@ -1,5 +1,5 @@
 {
-  "id": "1e9eafd6-2daa-4e24-a6cb-f13c5936a4a1",
+  "id": "689cc30d-9b10-4936-a5be-93c0302240a9",
   "name": "welcome",
   "auto": true,
   "contexts": [],
@@ -10,6 +10,20 @@
       "affectedContexts": [],
       "parameters": [],
       "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://media1.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid\u003d790b76113a088d2da255fbcd2a5651fa2aa399d37ff33077\u0026rid\u003dgiphy.gif"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "Hi! I\u0027m accountbot 👾\n\nHere are some things I can help you with ✏️\n\n- Estimate your taxes for 2019 (federal or state) 💵\n\n- Define common financial terms (tax deductions, IRAs, and bonds) 📚\n\nWhere should we start? 🏋️‍♀️\n\nFor a full list of actions, type \"help\"  🧠"
+        },
         {
           "type": 0,
           "lang": "en",

@@ -1,0 +1,42 @@
+{
+  "id": "cb7131f0-ece6-4145-b67f-aa64bf74b4fe",
+  "parentId": "a9f40eaf-a6e1-49e5-93be-933a77daca3f",
+  "rootParentId": "3b4203de-777f-48df-9dcb-dfd0b6af69fd",
+  "name": "faq.finance_terms.define.business_mileage_deduction - yes - yes",
+  "auto": true,
+  "contexts": [
+    "faqfinance_termsdefinebusiness_mileage_deduction-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faqfinance_termsdefinebusiness_mileage_deduction.faqfinance_termsdefinebusiness_mileage_deduction-yes.faqfinance_termsdefinebusiness_mileage_deduction-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "faqfinance_termsdefinebusiness_mileage_deduction-yes-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Awesome! Do you drive your car for work (outside of regular commuting between your home and work)?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

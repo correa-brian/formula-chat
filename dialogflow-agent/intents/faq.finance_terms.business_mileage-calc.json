@@ -1,0 +1,57 @@
+{
+  "id": "a2f9ad7c-c089-456b-ac8c-68314a49d978",
+  "parentId": "cb7131f0-ece6-4145-b67f-aa64bf74b4fe",
+  "rootParentId": "3b4203de-777f-48df-9dcb-dfd0b6af69fd",
+  "name": "faq.finance_terms.business_mileage-calc",
+  "auto": true,
+  "contexts": [
+    "faqfinance_termsdefinebusiness_mileage_deduction-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "faqfinance_termsdefinebusiness_mileage_deduction.faqfinance_termsdefinebusiness_mileage_deduction-yes.faqfinance_termsdefinebusiness_mileage_deduction-yes-getuserinput",
+      "affectedContexts": [
+        {
+          "name": "faqfinance_termsdefinebusiness_mileage_deduction-yes-yes-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "faqfinance_termsdefinebusiness_mileage_deduction-yes4-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "faqfinance_termsdefinebusiness_mileage-calc-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "faqfinance_termsbusiness_mileage-calc-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Perfect! How we\u0027ll calculate your 2019 Business Mileage Expense Deduction for you. How many miles did you drive for your business in 2019?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

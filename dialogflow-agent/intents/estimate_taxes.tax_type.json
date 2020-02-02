@@ -1,30 +1,28 @@
 {
-  "id": "9cecc73c-290b-41b1-9c68-4566ecc55af1",
-  "parentId": "918e5340-fd35-418e-8eea-dd8ee24c006d",
-  "rootParentId": "2914ea2e-bfd8-4a25-8c21-cde48c30bb5e",
-  "name": "estimate.taxes.filing.status.income",
+  "id": "14441b5b-1f9b-4975-9bfb-d3c92e2e15b9",
+  "name": "estimate_taxes.tax_type",
   "auto": true,
   "contexts": [
-    "estimatetaxesfilingstatus-followup"
+    "estimate_taxes"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "estimate.taxes.filing.status.income",
+      "action": "estimate_taxes",
       "affectedContexts": [
         {
-          "name": "estimatetaxesfilingstatusincome-followup",
+          "name": "estimate_taxes",
           "parameters": {},
-          "lifespan": 2
+          "lifespan": 5
         }
       ],
       "parameters": [
         {
-          "id": "04b73677-019d-41e3-8de8-0bc0756f186b",
-          "required": false,
-          "dataType": "@sys.unit-currency",
-          "name": "unit-currency",
-          "value": "$unit-currency",
+          "id": "e49a08a1-f8c4-477b-8cb5-fa25e5a09944",
+          "required": true,
+          "dataType": "@estimate_tax_type",
+          "name": "estimate_tax_type",
+          "value": "$estimate_tax_type",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -37,7 +35,7 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": []
+          "speech": "I got $estimate_tax_type. Now we\u0027ll need your filing status. Are you filing single, head of household, married or married filing jointly?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -45,7 +43,7 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": true,
+  "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
   "events": [],

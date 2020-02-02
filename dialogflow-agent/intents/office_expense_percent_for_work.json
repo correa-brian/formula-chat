@@ -1,30 +1,32 @@
 {
-  "id": "918e5340-fd35-418e-8eea-dd8ee24c006d",
-  "parentId": "2914ea2e-bfd8-4a25-8c21-cde48c30bb5e",
-  "rootParentId": "2914ea2e-bfd8-4a25-8c21-cde48c30bb5e",
-  "name": "estimate.taxes.filing.status",
+  "id": "7c017c8e-51e1-4699-878c-992fcd5378d6",
+  "name": "office_expense_percent_for_work",
   "auto": true,
   "contexts": [
-    "estimatetaxes-followup"
+    "office_expense_cost_of_item"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "estimate.taxes.filing.status",
       "affectedContexts": [
         {
-          "name": "estimatetaxesfilingstatus-followup",
+          "name": "office_expense_cost_of_item",
           "parameters": {},
-          "lifespan": 2
+          "lifespan": 5
+        },
+        {
+          "name": "office_expense_percent_for_work",
+          "parameters": {},
+          "lifespan": 5
         }
       ],
       "parameters": [
         {
-          "id": "fa26441e-6195-4e20-b530-5a5c67ee30cc",
-          "required": true,
-          "dataType": "@estimate_filing_status",
-          "name": "estimate_filing_status",
-          "value": "$estimate_filing_status",
+          "id": "782d11e5-b69c-4979-8857-755ea0d7ed74",
+          "required": false,
+          "dataType": "@sys.percentage",
+          "name": "percentage",
+          "value": "$percentage",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -37,7 +39,7 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "$estimate_filing_status! Great -- how much did you earn last year? 💸"
+          "speech": []
         }
       ],
       "defaultResponsePlatforms": {},
@@ -45,7 +47,7 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
   "events": [],

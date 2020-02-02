@@ -1,0 +1,91 @@
+{
+  "id": "fa0a5fc3-94db-49a8-bf36-a345d5d12169",
+  "name": "home_office_deduction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "home_office_deduction",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "home_office_deduction-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "29531b2b-7aa3-4688-9358-c76db1a941f2",
+          "required": false,
+          "dataType": "@finance-term",
+          "name": "finance-term",
+          "value": "$finance-term",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "The home office deduction gives you a deduction for using part of your 🏠 exclusively for business. This must be your principal place of business."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "You can qualify if you use part of your 🏠 to store inventory, host in-person meetings, or perform other work activities."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Want to see what you could deduct💸?",
+          "replies": [
+            "Yes"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The home office deduction lets you deduct expenses for using part of your home exclusively for business. This must be your principal place of business."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You can qualify if you use a spare room or garage to store merchandise/inventory, host in-person meetings, or perform other work from home activities."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Want to see if you qualify for this deduction?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

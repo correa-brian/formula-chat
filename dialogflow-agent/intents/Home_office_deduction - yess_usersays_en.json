@@ -1,9 +1,9 @@
 [
   {
-    "id": "2c5813dd-12c3-4553-8051-d209b51ac3b7",
+    "id": "ba90c2d8-998b-4d3b-9e4d-375ab171c9a3",
     "data": [
       {
-        "text": "how much taxes do I owe?",
+        "text": "do it",
         "userDefined": false
       }
     ],
@@ -12,10 +12,10 @@
     "updated": 0
   },
   {
-    "id": "8673bf97-db4c-4b1f-917c-879f03b14b87",
+    "id": "c3fa37f2-963c-44d8-b216-a93026d11781",
     "data": [
       {
-        "text": "show me my taxes",
+        "text": "you bet",
         "userDefined": false
       }
     ],
@@ -24,10 +24,10 @@
     "updated": 0
   },
   {
-    "id": "817d3957-040c-4ce7-b5b4-2c15776b903f",
+    "id": "bfa5e0c9-e28e-4656-8b3a-271bd167749e",
     "data": [
       {
-        "text": "what\u0027s my tax burden",
+        "text": "affirmative",
         "userDefined": false
       }
     ],
@@ -36,10 +36,10 @@
     "updated": 0
   },
   {
-    "id": "6edf81a3-fbc9-4e7b-9024-d387f671045c",
+    "id": "7b1e0263-aaa8-4cbf-9c51-e45b444e5aef",
     "data": [
       {
-        "text": "tax burden",
+        "text": "ye",
         "userDefined": false
       }
     ],
@@ -48,15 +48,10 @@
     "updated": 0
   },
   {
-    "id": "53fbe403-5162-4b78-a441-baa1991646ba",
+    "id": "02bdc277-8a10-4738-befd-61c9a09a2305",
     "data": [
       {
-        "text": "calculate tax ",
-        "userDefined": false
-      },
-      {
-        "text": "bill",
-        "meta": "@sys.ignore",
+        "text": "absolutely",
         "userDefined": false
       }
     ],
@@ -65,10 +60,10 @@
     "updated": 0
   },
   {
-    "id": "6f30a45b-b177-4d76-899c-10053a8710de",
+    "id": "cd51b5d6-04b9-4f23-9e5a-7ac4cb86188e",
     "data": [
       {
-        "text": "calculate taxes",
+        "text": "for sure",
         "userDefined": false
       }
     ],
@@ -77,10 +72,10 @@
     "updated": 0
   },
   {
-    "id": "987ee121-1d2c-4466-848a-9eace319a6fa",
+    "id": "935a76a3-f8d3-41e5-8b4c-3f6b726cd2c1",
     "data": [
       {
-        "text": "help me with my taxes",
+        "text": "let\u0027s do it",
         "userDefined": false
       }
     ],
@@ -89,10 +84,10 @@
     "updated": 0
   },
   {
-    "id": "ab0b1df1-3637-406f-987d-252c4e2b64c7",
+    "id": "bcf0e486-073b-4f67-9a6d-d9677be10d10",
     "data": [
       {
-        "text": "can you do my taxes",
+        "text": "sure",
         "userDefined": false
       }
     ],
@@ -101,10 +96,10 @@
     "updated": 0
   },
   {
-    "id": "66974b53-4448-4b9c-994a-2cc1173a6f6e",
+    "id": "6daeebb3-3a2d-48d4-b718-8ade6f2ff3ab",
     "data": [
       {
-        "text": "tax estimates",
+        "text": "yep",
         "userDefined": false
       }
     ],
@@ -113,10 +108,10 @@
     "updated": 0
   },
   {
-    "id": "6cf537b9-df92-467f-a4de-913abfc9b175",
+    "id": "6cd49f3a-81c3-401b-af3b-f1251c00992d",
     "data": [
       {
-        "text": "what are my taxes",
+        "text": "yeah",
         "userDefined": false
       }
     ],
@@ -125,27 +120,15 @@
     "updated": 0
   },
   {
-    "id": "f48e6b0d-5349-49b5-8d0a-3407fa068a97",
+    "id": "4d376923-3a05-415e-8bc8-a722db742480",
     "data": [
       {
-        "text": "do my taxes",
+        "text": "Yes",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "4f17f07e-9bb3-453f-b847-51be3b4274d8",
-    "data": [
-      {
-        "text": "estimate taxes",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
+    "count": 1,
     "updated": 0
   }
 ]

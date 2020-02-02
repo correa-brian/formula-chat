@@ -1,0 +1,54 @@
+{
+  "id": "74fb063f-48cc-4828-b3df-9dce776a712b",
+  "name": "office_expense_question",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "office_expense_question",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "If you\u0027re self-employed and use your 📱, tablet or 💻 for work, a portion of the cost of these items can be deducted from your taxes."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Want to find out if you can take this deduction?",
+          "replies": [
+            "Let\u0027s do it!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If you\u0027re self-employed and use your 📱, tablet or 💻 for work, a portion of the cost of these items can be deducted from your taxes. Want to find out if you can take this deduction?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

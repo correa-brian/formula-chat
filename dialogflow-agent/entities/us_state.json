@@ -1,0 +1,9 @@
+{
+  "id": "9373a267-0463-4e22-b2a1-2124e67ab69c",
+  "name": "us_state",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

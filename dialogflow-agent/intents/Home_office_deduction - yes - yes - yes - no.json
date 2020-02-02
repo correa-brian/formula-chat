@@ -1,0 +1,36 @@
+{
+  "id": "4586daab-5d23-44bc-b635-2cbd90e42e7f",
+  "parentId": "637616a9-68ac-44a8-b750-5df28de933a5",
+  "rootParentId": "fa0a5fc3-94db-49a8-bf36-a345d5d12169",
+  "name": "Home_office_deduction - yes - yes - yes - no",
+  "auto": true,
+  "contexts": [
+    "Home_office_deduction-yes-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Home_office_deduction.Home_office_deduction-yes.Home_office_deduction-yes-yes.Home_office_deduction-yes-yes-yes.Home_office_deduction-yes-yes-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Got it. It doesn\u0027t look like you\u0027ll qualify for the deduction, but you can always consult with a tax professional to verify. Is there anything else we can help you with?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

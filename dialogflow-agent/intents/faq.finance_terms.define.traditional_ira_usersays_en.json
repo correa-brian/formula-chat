@@ -1,6 +1,118 @@
 [
   {
-    "id": "e7a1bb0a-7986-404f-a926-8e899815b31f",
+    "id": "3a463309-11fe-4268-ba7d-4e7506123b6d",
+    "data": [
+      {
+        "text": "Retirement Accounts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87e94247-81e7-4fbc-9f16-846df1f4eb76",
+    "data": [
+      {
+        "text": "Investment Retirement Account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a1c1f56-71a3-4c79-843c-26b0e2eb8e02",
+    "data": [
+      {
+        "text": "Regular ",
+        "userDefined": false
+      },
+      {
+        "text": "IRA",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05e80eec-80c5-4602-a350-c10782ebd2a3",
+    "data": [
+      {
+        "text": "What is a ",
+        "userDefined": false
+      },
+      {
+        "text": "traditional ira",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "665b6492-b6f3-47dd-9f31-249ab30872c6",
+    "data": [
+      {
+        "text": "How does an IRA work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cb2150a-0cad-4d12-a1d9-53a9fa6c09c5",
+    "data": [
+      {
+        "text": "What\u0027s an ",
+        "userDefined": false
+      },
+      {
+        "text": "IRA",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f23a3863-0bac-462d-86e4-8e090c9e196d",
+    "data": [
+      {
+        "text": "IRA",
+        "alias": "finance-term",
+        "meta": "@finance-term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e74ec02-d5ef-4260-987e-dccb92456a8e",
     "data": [
       {
         "text": "Tell me about ",
@@ -18,7 +130,7 @@
     "updated": 0
   },
   {
-    "id": "fff3d098-4f41-4667-b70f-367846a12475",
+    "id": "96222577-089f-4d9d-b62d-79b6e95584d3",
     "data": [
       {
         "text": "What is a Standard ",
@@ -36,7 +148,7 @@
     "updated": 0
   },
   {
-    "id": "2164b9d6-83d7-48cf-8be7-3f2fb3840bae",
+    "id": "8b3c5b54-e33f-46c9-968a-d0887c0f4c56",
     "data": [
       {
         "text": "Traditional ",
@@ -54,7 +166,7 @@
     "updated": 0
   },
   {
-    "id": "8c114753-3044-4c43-86e6-ac3f0b4bf883",
+    "id": "be810880-7ccd-46fb-a3e5-ebae275cf0fa",
     "data": [
       {
         "text": "Traditional IRA",
@@ -68,7 +180,7 @@
     "updated": 0
   },
   {
-    "id": "3c194d06-c9f9-4c02-bc00-ef9aa4bad27e",
+    "id": "45e83826-3c6b-4653-831c-3430c45852e3",
     "data": [
       {
         "text": "Standard ",

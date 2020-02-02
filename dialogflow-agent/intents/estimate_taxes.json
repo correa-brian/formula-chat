@@ -1,0 +1,100 @@
+{
+  "id": "bf8698e6-60d4-4b12-a973-92b11ddf6943",
+  "name": "estimate_taxes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "estimate_taxes",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "⚙️⚙️⚙️ Let\u0027s get to work on your Federal taxes. What\u0027s your filing status?"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Single",
+          "subtitle": "Filing doing taxes just for yourself",
+          "imageUrl": "https://si.wsj.net/public/resources/images/B3-DL745_Bonds0_P_20190318165029.jpg",
+          "buttons": [
+            {
+              "text": "🤳"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Married",
+          "subtitle": "You and a partner are filing jointly",
+          "imageUrl": "https://img-aws.ehowcdn.com/600x600p/s3-us-west-1.amazonaws.com/contentlab.studiod/getty/d85bded121b74d2ba2a39b455465e0ef.jpg",
+          "buttons": [
+            {
+              "text": "💍"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Head of Household",
+          "subtitle": "There\u0027s someone you can claim as a dependent",
+          "imageUrl": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs\u003dsrgb\u0026dl\u003dblue-and-gray-concrete-house-with-attic-during-twilight-186077.jpg\u0026fm\u003djpg",
+          "buttons": [
+            {
+              "text": "🏡"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Married Filing Separate",
+          "subtitle": "Legally you\u0027re married but keeping things separate",
+          "imageUrl": "https://creditkarma-cms.imgix.net/wp-content/uploads/2018/12/GettyImages-828488136-TXSINGLEFILING-e1545403641320.jpg?w\u003d1024\u0026compress\u003d1",
+          "buttons": [
+            {
+              "text": "🙌"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Perfect! Let\u0027s do some taxes. Let\u0027s start with your Federal taxes. What\u0027s your filing status for your taxes?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

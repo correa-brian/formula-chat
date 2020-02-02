@@ -1,19 +1,56 @@
 {
-  "id": "092a546d-8dff-4e1f-bf38-a8b3dc8bbccf",
+  "id": "3b4203de-777f-48df-9dcb-dfd0b6af69fd",
   "name": "faq.finance_terms.define.business_mileage_deduction",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "faqfinance_termsdefinebusiness_mileage_deduction-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [],
       "messages": [
         {
           "type": 0,
+          "platform": "facebook",
           "lang": "en",
           "condition": "",
-          "speech": "The Business Mileage Deduction lets you deduct a fixed amount per mile you drive for business activities. For 2019, you can take $0.58 per mile driven from your taxable income (note: this excludes taxi cabs and vehicles used as equipment, like a dump truck). When you\u0027re not commuting you can track your miles and earn a deduction for driving to meetings with clients and attending a meeting away from your normal place of business."
+          "speech": "The Business Mileage Deduction lets self-employed people deduct 💰 per mile 🚗 for business."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "For 2019, deduct $0.58/mile, excluding commute."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "Track your miles!"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Want to see if you qualify for the deduction and calculate it?",
+          "replies": [
+            "Yes"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Business Mileage Deduction lets you deduct a fixed amount per mile you drive for business if you are self-employed. \nFor 2019, you can deduct $0.58 per mile driven from your taxable income (unless you drive a taxi). \nWhen you\u0027re not commuting you can track your miles and earn a deduction for driving to source/ship products, meet with clients or attend a meeting away from your office. \nWant us to see if you qualify for the deduction and calculate it for you?"
         }
       ],
       "defaultResponsePlatforms": {},
